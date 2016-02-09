@@ -1,0 +1,53 @@
+﻿­
+
+
+[Company Name]
+Meeting of the Board of Directors
+[Address Line 1]
+[City]  [Zip Code] 
+[United States]
+[Date]
+Pursuant to notice duly given to all directors of [Company Name], a Delaware corporation (the “Company”), a meeting of the Company’s Board of Directors (the “Board”) was held at the above date and place at [Start Time].  The following directors were present in person or by telephone and constituted a quorum:  [[Director 1], [Director 2] and [Director 3]].  Also present were [NAME], [NAME] and [NAME] of the Company and [NAME] of Orrick, Herrington & Sutcliffe LLP, as counsel to the Company, who kept the minutes of the meeting. 
+1. Valuation Determination
+[Current Valuation:  
+RESOLVED FURTHER:  That the Board has reviewed the written valuation report prepared by _________________________________ (the “Valuation Report”) and has determined that $__________ per share (the per share value determined by _________________________________ as of [Date] and reflected in the Valuation Report) is the current per share fair market value of the Company’s Common Stock as of the effective date of these resolutions, which determination has been made in good faith, based on all of the relevant facts and circumstances as of the effective date of these resolutions, including, to the extent applicable, some or all of the following factors:  the value of the Company’s tangible and intangible assets, the present value of anticipated future cash flows of the Company, the market value of the stock or other equity interests of similar companies and other entities engaged in trades or businesses substantially similar to those engaged in by the Company whose value can be readily determined through non-discretionary objective means, recent arm’s length transactions involving the sale or transfer of Company stock and other relevant factors such as control premiums or discounts for lack of marketability.] OR 
+[Past Valuation:  
+RESOLVED FURTHER:  That the Board has previously reviewed the written valuation report prepared by _________________________________ (the “Valuation Report”) and determined that $__________ per share (the per share value determined by _________________________________ as of [Date] and reflected in the Valuation Report) was the per share fair market value of the Company’s Common Stock on [Date], which determination was made in good faith, based on all of the relevant facts and circumstances as of [Date], including, to the extent applicable, some or all of the following factors:  the value of the Company’s tangible and intangible assets, the present value of anticipated future cash flows of the Company, the market value of the stock or other equity interests of similar companies and other entities engaged in trades or businesses substantially similar to those engaged in by the Company whose value can be readily determined through non-discretionary objective means, recent arm’s length transactions involving the sale or transfer of Company stock and other relevant factors such as control premiums or discounts for lack of marketability.
+RESOLVED FURTHER:  That the Board has again reviewed the Valuation Report and hereby determines, in good faith and based on all of the relevant facts and circumstances as of the date hereof, that there have not been any changes that would materially affect the value of the Company since [Date] and, therefore, $__________ per share (the per share value reflected in the Valuation Report) is hereby determined to be the per share fair market value of the Company’s Common Stock as of the effective date of these resolutions.] OR 
+2. Issuance of Options
+[Describe discussion].  After a general discussion, upon motion duly made and seconded, it was unanimously:
+RESOLVED:  That each person whose name is set forth on Exhibit A attached hereto is hereby granted an option (each an “Option” and collectively the “Options”) to purchase the number of shares of the Company’s Common Stock set forth opposite the name of such person on Exhibit A pursuant to the Company’s stock plan set forth opposite the name of such person on Exhibit A.
+RESOLVED FURTHER:  That, unless otherwise set forth on Exhibit A, the exercise price for the Options shall be $__________ per share (or 110% of such amount for Optionees that hold 10% or more of the outstanding capital stock of the Company), each of the Options shall have a 10-year term and be exercisable at the rate of 25% of the shares on the 12-month anniversary of the Vesting Commencement Date, which shall be the effective date of these resolutions (unless otherwise set forth on Exhibit A), and 1/48th of the shares shall vest and become exercisable on the same day of each month thereafter for so long as the recipient of the Option remains an employee of or consultant to the Company.
+RESOLVED FURTHER:  That each of the Options, unless otherwise indicated on Exhibit A or unless and to the extent limited by applicable law, shall be an Incentive Stock Option under Section 422 of the Internal Revenue Code of 1986, as amended.
+RESOLVED FURTHER:  That each Option shall be evidenced by, and subject to, the terms and conditions of the form of stock option agreement previously approved by the Board, as modified by any officer of the Company to give effect to any terms approved by the Board or to make any changes thereto that will not have a material adverse financial, legal, tax or accounting consequence to the Company or any of its affiliates.
+RESOLVED FURTHER:  That the grant of each Option shall be subject to compliance with all applicable laws, rules and regulations.
+3. [Interested Director Transaction] 
+WHEREAS:  The Optionees referenced above include __________, __________ and __________.
+WHEREAS:  As a result, __________, __________ and __________ have a financial interest in the above Option grant, therefore the offering of the Options may be an interested director transaction under Section 144 of the Delaware General Corporation Law.
+WHEREAS:  __________, __________ and __________ have a financial interest in the Options and has been fully apprised of all of the material facts relevant to the acquisition of such Options by __________, __________ and __________.
+NOW, THEREFORE, BE IT RESOLVED:  That the Options granted to __________, __________ and __________ are hereby determined to be [fair, just and reasonable] to the Company within the meaning of Section 144 of the Delaware General Corporation Law[ and [Interested Director Section of Code of Applicable State Law]], and such Options are authorized and approved for all purposes, including without limitation with respect to Section 144 of the Delaware General Corporation Law.
+4. Omnibus Resolution
+Upon motion duly made and seconded it was unanimously:
+RESOLVED:  That each of the officers of the Company is authorized and empowered to take such other actions and sign such other documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions.
+5. Future Meetings
+The Board scheduled the next meeting for [Time and Date] at [Place].
+6. Adjournment
+There being no further business, the meeting was adjourned.
+	
+[NAME], Secretary of the Meeting
+
+EXHIBIT A
+STOCK OPTION GRANTS
+
+Name
+ISO Shares
+NSO Shares
+Stock Plan & Vesting Schedule
+Vesting Commencement Date
+[Advisor Name]
+__________
+__________
+[Stock Plan Name]
+__________ shares vest on the __-month anniversary of the Vesting Commencement Date and 1/48th of total shares vest each month thereafter[, subject to ____% acceleration (single trigger) upon a Change of Control (as defined in the Plan) ] OR [, subject to ____% acceleration (double trigger) upon termination of Purchaser’s Continuous Service Status (as defined in the Plan) in connection with or following the consummation of a Change of Control (as defined in the Plan)].
+[Date]
+
