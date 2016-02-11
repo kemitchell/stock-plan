@@ -1,5 +1,8 @@
 CF=node_modules/.bin/commonform
 
+Option-Exercise-Agreement.docx: Option-Exercise-Agreement.cform Option-Exercise-Agreement.sigs.json $(CF)
+	$(CF) render -f docx -n outline --title "Option Exercise Agreement" -s Option-Exercise-Agreement.sigs.json $< > $@
+
 Option-Agreement.docx: Option-Agreement.cform $(CF)
 	$(CF) render -f docx -n outline --title "Option Agreement" $< > $@
 
