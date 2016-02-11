@@ -10,7 +10,7 @@ Option-Exercise-Agreement.docx: Option-Exercise-Agreement.cform Option-Exercise-
 	$(CF) render -f docx -n outline --title "Option Exercise Agreement" -s Option-Exercise-Agreement.sigs.json $< > $@
 
 Option-Agreement.docx: Option-Agreement.cform $(CF)
-	$(CF) render -f docx -n outline --title "Option Agreement" $< > $@
+	$(CF) render -f docx -n ase --title "Option Agreement" $< > $@
 
 Option-Notice.docx: Option-Notice.cform Option-Notice.sigs.json $(CF)
 	$(CF) render -f docx -n outline --title "Option Notice" -s Option-Notice.sigs.json $< > $@
