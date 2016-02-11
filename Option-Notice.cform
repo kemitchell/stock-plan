@@ -7,7 +7,7 @@ You have been granted an option to purchase Common Stock of [Company Name], a De
     \ Type of Option \ [Type of Option]
     \ Expiration Date \ [Expiration Date]
     \ Vesting Commencement Date \ [Vesting Commencement Date]
-    \ Vesting/Exercise Schedule \ So long as your <Continuous Service Status> does not terminate (and provided that no vesting shall occur following the <Termination Date> (as defined in Section 5 of the <Stock Option Agreement>)), the <Shares> underlying this <Option> shall vest and become exercisable in accordance with the following schedule:  [Cliff Shares] of the <Total Number of Shares> shall vest and become exercisable on the [Cliff Months]-month anniversary of the <Vesting Commencement Date> and [Monthly Shares] of the <Total Number of Shares> shall vest and become exercisable on the [Vesting Day] day of each month thereafter (and if there is no corresponding day, the last day of the month).
+    \ Vesting/Exercise Schedule \ So long as your <Continuous Service Status> does not terminate (and provided that no vesting shall occur following the <Termination Date> (as defined in the <Stock Option Agreement>), the <Shares> underlying this <Option> shall vest and become exercisable in accordance with the following schedule:  [Cliff Shares] of the <Total Number of Shares> shall vest and become exercisable on the [Cliff Months]-month anniversary of the <Vesting Commencement Date> and [Monthly Shares] of the <Total Number of Shares> shall vest and become exercisable on the [Vesting Day] day of each month thereafter (and if there is no corresponding day, the last day of the month).
 
     # If Plan does not define "Change of Control"
     \ Definition of "Change of Control" \ As used herein, ""Change of Control"" means
@@ -36,10 +36,10 @@ You have been granted an option to purchase Common Stock of [Company Name], a De
     In order for <Optionee> to resign for <Good Reason>, <Optionee> must provide written notice to the <Company> of the existence of the <Good Reason> condition within 60 days of the initial existence of such <Good Reason> condition.  Upon receipt of such notice, the <Company> will have 30 days during which it may remedy the <Good Reason> condition and not be required to provide for the vesting acceleration described herein as a result of such proposed resignation.  If the <Good Reason> condition is not remedied within such 30 day period, <Optionee> may resign based on the <Good Reason> condition specified in the notice effective no later than 30 days following the expiration of the 30-day cure period. 
     If <Optionee> is a director of the <Company> but not an employee or consultant of the <Company> (or a successor, if appropriate) at the time of consummation of the <Change of Control> and <Optionee> is removed from, or is not reelected to, the Board of Directors of the <Company> (or a successor, as appropriate) in connection with or following the consummation of a <Change of Control>, this <Option> shall accelerate and become vested to the same extent as if <Optionee> had been terminated without <Cause> as described above.
 
-    \ Termination Period \ You may exercise this <Option> for [Post-Termination Window Months] month(s) after the <Termination Date> except as set out in Section 5 of the Stock Option <Agreement> (but in no event later than the Expiration Date).  You are responsible for keeping track of these exercise periods following the <Termination Date>.  The <Company> will not provide further notice of such periods.
+    \ Termination Period \ You may exercise this <Option> for [Post-Termination Window Months] month(s) after the <Termination Date> except as set out in the <Stock Option Agreement> (but in no event later than the Expiration Date).  You are responsible for keeping track of these exercise periods following the <Termination Date>.  The <Company> will not provide further notice of such periods.
 
     \ Transferability \
-    You may not transfer this <Option> except as set forth in Section 6 of the <Stock Option Agreement>. 
+    You may not transfer this <Option> except as set forth in the <Stock Option Agreement>. 
     # Optional
     You must obtain <Company> approval prior to any transfer of the <Shares> received upon exercise of this <Option>.
 
