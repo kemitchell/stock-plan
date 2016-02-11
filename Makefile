@@ -31,3 +31,7 @@ options.json:
 $(CF):
 	npm i
 
+.PHONY: clean
+
+clean:
+	rm -f $(TARGETS:=.docx) $(TARGETS:=.pdf)
