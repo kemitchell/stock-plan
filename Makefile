@@ -1,5 +1,11 @@
 CF=node_modules/.bin/commonform
 
+TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan
+
+all: $(TARGETS:=.docx)
+
+pdf: $(TARGETS:=.pdf)
+
 Option-Exercise-Agreement.docx: Option-Exercise-Agreement.cform Option-Exercise-Agreement.sigs.json $(CF)
 	$(CF) render -f docx -n outline --title "Option Exercise Agreement" -s Option-Exercise-Agreement.sigs.json $< > $@
 
