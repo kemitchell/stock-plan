@@ -1,11 +1,14 @@
 CF=node_modules/.bin/commonform
 CFT=node_modules/.bin/cftemplate
 
-TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan
+TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan
 
 all: $(TARGETS:=.docx)
 
 pdf: $(TARGETS:=.pdf)
+
+Board-Approval-of-Stock-Plan.docx: Board-Approval-of-Stock-Plan.cform Board-Approval-of-Stock-Plan.sigs.json $(CF)
+	$(CF) render -f docx -n rse --title "Action by Written Consent of the Board" -s Board-Approval-of-Stock-Plan.sigs.json $< > $@
 
 Stockholder-Approval-of-Stock-Plan.docx: Stockholder-Approval-of-Stock-Plan.cform Stockholder-Approval-of-Stock-Plan.sigs.json $(CF)
 	$(CF) render -f docx -n rse --title "Action by Written Consent of Stockholders" -s Stockholder-Approval-of-Stock-Plan.sigs.json $< > $@
