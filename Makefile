@@ -34,4 +34,4 @@ $(CF):
 .PHONY: clean
 
 clean:
-	rm -f $(TARGETS:=.docx) $(TARGETS:=.pdf)
+	rm -f $(TARGETS:=.docx) $(TARGETS:=.pdf) $(TARGETS:=.cform)
