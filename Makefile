@@ -1,4 +1,5 @@
 CF=node_modules/.bin/commonform
+CFT=node_modules/.bin/cftemplate
 
 TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan
 
@@ -17,6 +18,12 @@ Option-Notice.docx: Option-Notice.cform Option-Notice.sigs.json $(CF)
 
 Stock-Plan.docx: Stock-Plan.cform $(CF)
 	$(CF) render --format docx --number pae --title "Stock Plan" $< > $@
+
+%.cform: %.cftemplate options.json $(CFT)
+	$(CFT) $*.cftemplate options.json > $@
+
+options.json:
+	echo '{}' > $@
 
 %.pdf: %.docx
 	doc2pdf $<

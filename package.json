@@ -1,6 +1,7 @@
 {
   "private": true,
   "devDependencies": {
+    "cftemplate": "^0.4.0",
     "commonform-cli": "^0.14.2"
   }
 }
