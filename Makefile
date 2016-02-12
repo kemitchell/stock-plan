@@ -1,11 +1,14 @@
 CF=node_modules/.bin/commonform
 CFT=node_modules/.bin/cftemplate
 
-TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan Restricted-Stock-Purchase-Agreement Stock-Power Receipt-and-Consent 83b-Election Receipt
+TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan Restricted-Stock-Purchase-Agreement Stock-Power Receipt-and-Consent 83b-Election Receipt 83b-Acknowledgment-and-Statement
 
 all: $(TARGETS:=.docx)
 
 pdf: $(TARGETS:=.pdf)
+
+83b-Acknowledgment-and-Statement.docx: 83b-Acknowledgment-and-Statement.cform 83b-Acknowledgment-and-Statement.sigs.json $(CF)
+	$(CF) render -f docx -n outline -s 83b-Acknowledgment-and-Statement.sigs.json --title "Acknowledgment and Statement of Decision Regarding Section 83(b) Election" 83b-Acknowledgment-and-Statement.cform > $@
 
 Receipt.docx: Receipt.cform Receipt.sigs.json $(CF)
 	$(CF) render -f docx -n decimal -s Receipt.sigs.json --title "Receipt" Receipt.cform > $@
