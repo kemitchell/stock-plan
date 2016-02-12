@@ -1,7 +1,7 @@
 CF=node_modules/.bin/commonform
 CFT=node_modules/.bin/cftemplate
 
-TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan
+TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan Restricted-Stock-Purchase-Agreement
 
 all: $(TARGETS:=.docx)
 
@@ -18,6 +18,9 @@ Option-Exercise-Agreement.docx: Option-Exercise-Agreement.cform Option-Exercise-
 
 Option-Agreement.docx: Option-Agreement.cform $(CF)
 	$(CF) render -f docx -n ase --title "Option Agreement" $< > $@
+
+Restricted-Stock-Purchase-Agreement.docx: Restricted-Stock-Purchase-Agreement.cform Restricted-Stock-Purchase-Agreement.sigs.json $(CF)
+	$(CF) render -f docx -n ase --title "Restricted-Stock-Purchase Agreement" -s Restricted-Stock-Purchase-Agreement.sigs.json $< > $@
 
 Option-Notice.docx: Option-Notice.cform Option-Notice.sigs.json $(CF)
 	$(CF) render -f docx -n outline --title "Option Notice" -s Option-Notice.sigs.json $< > $@
