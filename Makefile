@@ -1,11 +1,14 @@
 CF=node_modules/.bin/commonform
 CFT=node_modules/.bin/cftemplate
 
-TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan Restricted-Stock-Purchase-Agreement Stock-Power
+TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan Restricted-Stock-Purchase-Agreement Stock-Power Receipt-and-Consent
 
 all: $(TARGETS:=.docx)
 
 pdf: $(TARGETS:=.pdf)
+
+Receipt-and-Consent.docx: Receipt-and-Consent.cform Receipt-and-Consent.sigs.json $(CF)
+	$(CF) render -f docx -n ase --title "Receipt and Consent" -s Receipt-and-Consent.sigs.json $< > $@
 
 Stock-Power.docx: Stock-Power.cform Stock-Power.sigs.json $(CF)
 	$(CF) render -f docx -n decimal --title "Stock Power" -s Stock-Power.sigs.json Stock-Power.cform > $@
