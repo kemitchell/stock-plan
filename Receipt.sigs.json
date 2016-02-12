@@ -1,0 +1,5 @@
+[ { "term": "Company",
+    "entities": [
+      { "jurisdiction": "Delaware",
+        "form": "corporation" } ],
+    "information": [ "date" ] } ]

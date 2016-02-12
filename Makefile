@@ -1,11 +1,14 @@
 CF=node_modules/.bin/commonform
 CFT=node_modules/.bin/cftemplate
 
-TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan Restricted-Stock-Purchase-Agreement Stock-Power Receipt-and-Consent 83b-Election
+TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval-of-Stock-Plan Board-Approval-of-Stock-Plan Restricted-Stock-Purchase-Agreement Stock-Power Receipt-and-Consent 83b-Election Receipt
 
 all: $(TARGETS:=.docx)
 
 pdf: $(TARGETS:=.pdf)
+
+Receipt.docx: Receipt.cform Receipt.sigs.json $(CF)
+	$(CF) render -f docx -n decimal -s Receipt.sigs.json --title "Receipt" Receipt.cform > $@
 
 83b-Election.docx: 83b-Election.cform 83b-Election.sigs.json $(CF)
 	$(CF) render -f docx -n decimal -s 83b-Election.sigs.json --title "Election Under Section 83(b) of the Internal Revenue Code of 1986" 83b-Election.cform > $@
