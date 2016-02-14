@@ -1,19 +1,44 @@
-    \\ Pursuant to notice duly given to all directors of [Company Name], a Delaware corporation (the ""Company""), a meeting of the <Company>'s Board of Directors (the ""Board"") was held at the above date and place at [Start Time]. The following directors were present in person or by telephone and constituted a quorum: [Director 1], [Director 2] and [Director 3].
+    \\
+    Pursuant to notice duly given to all directors of [Company Name], a Delaware corporation (the ""Company""), a meeting of the <Company>'s Board of Directors (the ""Board"") was held at the above date and place at [Start Time]. 
+    The following directors were present in person or by telephone and constituted a quorum: [Director 1], [Director 2] and [Director 3].
     # Also present were ...
-        \ Adoption of Stock Plan \ [Describe discussion]. After a general discussion, upon motion duly made and seconded, it was unanimously:
-            \\ Resolved: That the [Stock Plan Name] (the ""Plan""), in substantially the form attached hereto as {Stock Plan}, is hereby adopted and [Pool Shares] shares of the <Company>'s Common Stock are reserved for issuance pursuant to the <Plan>.
-            \\ Resolved further: That the <Plan> shall continue for 10 years from the effective date of these resolutions unless terminated earlier pursuant to its terms.
-            \\ Resolved further: That the forms of stock option agreement and restricted stock purchase agreement, in substantially the forms attached hereto as {Form of Stock Option Agreement} and {Form of Restricted Stock Purchase Agreement}, respectively, are hereby approved for purposes of documenting awards granted under the <Plan>, with such modifications or amendments to each form, or any individual agreement, as may be approved by the officers of the <Company>, or any of them individually, provided that any such changes do not individually, or in the aggregate, have a material financial, legal, tax or accounting impact on the <Company> or any of its affiliates.
-            \\ Resolved further: That the officers of the <Company>, in consultation with legal counsel, are authorized and directed to take any and all additional actions and file any other documents necessary to carry out the intent and purposes of the foregoing resolutions, including seeking stockholder approval of the <Plan> and qualifying or exempting the issuance of securities under the <Plan> from the registration requirements of the [Title of Securities Law Statute].
-        \ Omnibus Resolution \ Upon motion duly made and seconded it was unanimously:
-            \\ Resolved: That each of the officers of the <Company> is authorized and empowered to take such other actions and sign such other documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions.
-        \ Future Meetings \ The <Board> scheduled the next meeting for [Next Meeting Time and Date] at [Next Meeting Place].
-        \ Adjournment \ There being no further business, the meeting was adjourned.
 
-    \\ No schedules.
+        \ Adoption of Stock Plan \
+        [Describe discussion]. 
+        After a general discussion, upon motion duly made and seconded, it was unanimously:
 
-    \ Stock Plan \ See attached.
+            \\
+            Resolved: That the [Stock Plan Name] (the ""Plan""), in substantially the form attached hereto as {Stock Plan}, is hereby adopted and [Pool Shares] shares of the <Company>'s Common Stock are reserved for issuance pursuant to the <Plan>.
 
-    \ Form of Stock Option Agreement \ See attached.
+            \\
+            Resolved further: That the <Plan> shall continue for 10 years from the effective date of these resolutions unless terminated earlier pursuant to its terms.
 
-    \ Form of Restricted Stock Purchase Agreement \ See attached.
+            \\
+            Resolved further: That the forms of stock option agreement and restricted stock purchase agreement, in substantially the forms attached hereto as {Form of Stock Option Agreement} and {Form of Restricted Stock Purchase Agreement}, respectively, are hereby approved for purposes of documenting awards granted under the <Plan>, with such modifications or amendments to each form, or any individual agreement, as may be approved by the officers of the <Company>, or any of them individually, provided that any such changes do not individually, or in the aggregate, have a material financial, legal, tax or accounting impact on the <Company> or any of its affiliates.
+
+            \\
+            Resolved further: That the officers of the <Company>, in consultation with legal counsel, are authorized and directed to take any and all additional actions and file any other documents necessary to carry out the intent and purposes of the foregoing resolutions, including seeking stockholder approval of the <Plan> and qualifying or exempting the issuance of securities under the <Plan> from the registration requirements of the [Title of Securities Law Statute].
+
+        \ Omnibus Resolution \
+        Upon motion duly made and seconded it was unanimously:
+
+            \\
+            Resolved: That each of the officers of the <Company> is authorized and empowered to take such other actions and sign such other documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions.
+
+        \ Future Meetings \
+        The <Board> scheduled the next meeting for [Next Meeting Time and Date] at [Next Meeting Place].
+
+        \ Adjournment \
+        There being no further business, the meeting was adjourned.
+
+    \\
+    No schedules.
+
+    \ Stock Plan \
+    See attached.
+
+    \ Form of Stock Option Agreement \
+    See attached.
+
+    \ Form of Restricted Stock Purchase Agreement \
+    See attached.
