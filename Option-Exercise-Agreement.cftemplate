@@ -136,7 +136,7 @@
                 \\
                 any transfer or conversion of <Shares> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another corporation or corporations if the common stock of the surviving corporation or any direct or indirect parent corporation thereof is registered under the <Exchange Act>.
 
-            Upon termination of such transfer restrictions, the <Company> will remove any stop-transfer notices referred to in {Stop-Transfer Notices} and related to the restrictions in {Limitations on Transfer} and a new stock certificate or, in the case of uncertificated securities, notice of issuance, for the <Shares> not repurchased shall be issued, on request, without the legend referred to in {Transfer Restrictions Legend} and delivered to <Holder>.
+            Upon termination of such transfer restrictions, the <Company> will remove any stop-transfer notices referred to in {Stop-Transfer Notices} and related to the restrictions in {Limitations on Transfer} and a new stock certificate or, in the case of uncertificated securities, notice of issuance, for the <Shares> not repurchased shall be issued, on request, without the legend referred to in {Agreement Transfer Restrictions Legend} and delivered to <Holder>.
 
             \ Lock-Up Agreement \
             The lock-up provisions set forth in the lock-up provisions of the <Option Agreement> shall apply to the <Shares> issued upon exercise of the <Option> hereunder and <Purchaser> reaffirms <Purchaser>'s obligations set forth therein.
@@ -190,11 +190,11 @@
 
                 No such sale or distribution may be effected without an effective registration statement related thereto or an opinion of counsel in a form satisfactory to the company that such registration is not required under the Securities Act of 1933."
 
-                \ Transfer Restrictions Legend \
+                \ Agreement Transfer Restrictions Legend \
                 "The securities referenced herein may be transferred only in accordance with the terms of an agreement between the company and the stockholder, a copy of which is on file with and may be obtained from the secretary of the company at no charge."
 
                 # optional
-                \\
+                \ Governing Document Transfer Restrictions \
                 "The transfer of securities referenced herein is subject to restrictions requiring approval of the company pursuant to and in accordance with the company's bylaws and/or
 
                 # Optional
@@ -207,7 +207,7 @@
                 # Optional
                 and stock plan."
 
-                \\
+                \ Voting Agreement Legends \
                 Any legend required by the <Voting Agreement>, as applicable.
 
             \ Stop-Transfer Notices \
