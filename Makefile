@@ -1,7 +1,7 @@
 CF=node_modules/.bin/commonform
 CFT=node_modules/.bin/cftemplate
 
-TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval Board-Approval Restricted-Stock-Purchase-Agreement Stock-Power Receipt-from-Purchaser 83b-Election Receipt-from-Company 83b-Acknowledgment-and-Statement
+TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval Board-Approval Restricted-Stock-Purchase-Agreement Stock-Power Receipt-from-Purchaser 83b-Election Receipt-from-Company 83b-Statement
 
 all: $(TARGETS:=.docx)
 
