@@ -27,6 +27,9 @@ pdf: $(TARGETS:=.pdf)
 %.blanks: %.blanks.json blanks.json $(JSON)
 	cat blanks.json $*.blanks.json | $(JSON) --merge > $@
 
+%.blanks: blanks.json
+	cp $< $@
+
 options.json blanks.json:
 	echo '{}' > $@
 
