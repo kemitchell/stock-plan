@@ -1,7 +1,7 @@
-[ { "header": "You and the company are signing this option notice as of the dates by your signatures.",
+[ { "header": "You and the company are signing this option notice on the dates by your signatures.",
     "term": "Optionee",
     "information": [ "date", "email", "address" ] },
-  { "header": "You and the company are signing this option notice as of the dates by your signatures.",
+  { "header": "You and the company are signing this option notice on the dates by your signatures.",
     "term": "Company",
     "entities": [
       { "jurisdiction": "Delaware",
