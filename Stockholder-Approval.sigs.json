@@ -1,1 +1,6 @@
-[ { "information": [ "date" ] } ]
+[ { "header": "The stockholders are signing this action by written consent on the dates by their signatures.",
+    "term": "Stockholder",
+    "information": [ "date" ] },
+  { "header": "The stockholders are signing this action by written consent on the dates by their signatures.",
+    "term": "Stockholder",
+    "information": [ "date" ] } ]
