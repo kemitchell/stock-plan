@@ -298,9 +298,12 @@
                 \\
                 sign documents electronically and agrees to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
 
-            # Optional
+            (( if S Corporation start ))
+
             \ S Corp Agreement \
             <Purchaser> hereby acknowledges, accepts and agrees to all of the rights, duties and obligations of a Delaware under the S Corp Agreement of the <Company> dated [Date].
+
+            (( end ))
 
             \ California Corporate Securities Law !!  The sale of the securities which are the subject of this agreement has not been qualified with the Commissioner of Corporations of the State of California and the issuance of the securities or the payment or receipt of any part of the consideration therefor prior to the qualification is unlawful, unless the sale of securities is exempt from qualification by section 25100, 25102 or 25105 of the California Corporations Code. 
 
