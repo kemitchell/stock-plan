@@ -3,24 +3,34 @@ CFT=node_modules/.bin/cftemplate
 JSON=node_modules/.bin/json
 SHARED=$(wildcard shared/*.cform)
 
-TARGETS=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval Board-Approval Restricted-Stock-Purchase-Agreement Stock-Power Receipt-from-Purchaser 83b-Election Receipt-from-Company 83b-Statement
+BASENAMES=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval Board-Approval Restricted-Stock-Purchase-Agreement Stock-Power Receipt-from-Purchaser 83b-Election Receipt-from-Company 83b-Statement
+TARGETS=$(addprefix output/,$(BASENAMES))
 
-all: $(TARGETS:=.docx)
+all: output $(TARGETS:=.docx)
 
-pdf: $(TARGETS:=.pdf)
+pdf: output $(TARGETS:=.pdf)
+
+output:
+	mkdir -p $@
+
+# Build with Docker
+
+docker:
+	docker build -t stock-plan .
+	docker run -v $(shell pwd)/output:/app/output stock-plan
 
 # DocX Rules
 
-%.docx: %.cform %.sigs.json %.options %.blanks $(SHARED) $(CF)
+output/%.docx: %.cform %.sigs.json %.options %.blanks $(SHARED) $(CF)
 	$(CF) render -s $*.sigs.json --format docx -b $*.blanks $(shell cat $*.options) $< > $@
 
-%.docx: %.cform %.options %.blanks $(SHARED) $(CF)
+output/%.docx: %.cform %.options %.blanks $(SHARED) $(CF)
 	$(CF) render --format docx -b $*.blanks $(shell cat $*.options) $< > $@
 
-%.docx: %.cform %.sigs.json %.options $(SHARED) $(CF)
+output/%.docx: %.cform %.sigs.json %.options $(SHARED) $(CF)
 	$(CF) render -s $*.sigs.json --format docx $(shell cat $*.options) $< > $@
 
-%.docx: %.cform %.options $(SHARED) $(CF)
+output/%.docx: %.cform %.options $(SHARED) $(CF)
 	$(CF) render --format docx $(shell cat $*.options) $< > $@
 
 # Templating
@@ -43,7 +53,7 @@ options.json blanks.json:
 
 # PDF Conversion
 
-%.pdf: %.docx
+output/%.pdf: output/%.docx
 	doc2pdf $<
 
 # npm Build Tools

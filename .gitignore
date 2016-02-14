@@ -1,5 +1,2 @@
-*.docx
-*.pdf
-*.cform
-!shared/*.cform
+output
 options.json
