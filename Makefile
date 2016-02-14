@@ -9,6 +9,8 @@ all: $(TARGETS:=.docx)
 
 pdf: $(TARGETS:=.pdf)
 
+# DocX Rules
+
 %.docx: %.cform %.sigs.json %.options %.blanks $(SHARED) $(CF)
 	$(CF) render -s $*.sigs.json --format docx -b $*.blanks $(shell cat $*.options) $< > $@
 
@@ -21,8 +23,17 @@ pdf: $(TARGETS:=.pdf)
 %.docx: %.cform %.options $(SHARED) $(CF)
 	$(CF) render --format docx $(shell cat $*.options) $< > $@
 
+# Templating
+
 %.cform: %.cftemplate options.json $(CFT)
 	$(CFT) $*.cftemplate options.json > $@
+
+# Template Options
+
+options.json blanks.json:
+	echo '{}' > $@
+
+# Fill-in-the-Blanks
 
 %.blanks: %.blanks.json blanks.json $(JSON)
 	cat blanks.json $*.blanks.json | $(JSON) --merge > $@
@@ -30,11 +41,12 @@ pdf: $(TARGETS:=.pdf)
 %.blanks: blanks.json
 	cp $< $@
 
-options.json blanks.json:
-	echo '{}' > $@
+# PDF Conversion
 
 %.pdf: %.docx
 	doc2pdf $<
+
+# npm Build Tools
 
 $(CF) $(CFT):
 	npm i
