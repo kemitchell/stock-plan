@@ -1,5 +1,6 @@
 *.docx
 *.pdf
 *.cform
+!shared/*.cform
 blanks.json
 options.json
