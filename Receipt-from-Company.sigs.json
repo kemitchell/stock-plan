@@ -1,4 +1,5 @@
-[ { "term": "Company",
+[ { "header": "The Company makes this receipt as the date written below.",
+    "term": "Company",
     "entities": [
       { "jurisdiction": "Delaware",
         "form": "corporation" } ],
