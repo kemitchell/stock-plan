@@ -4,7 +4,7 @@
         [Company Name], a Delaware corporation (the ""Company""), hereby grants to the person (""Recipient"") named in the Notice of Stock Option Grant (the ""Notice""), an option (the ""Option"") to purchase the total number of shares of <Common Stock> (the ""Shares"") set forth in the <Notice>, at the exercise price per <Share> set forth in the <Notice> (the ""Exercise Price"") subject to the terms, definitions and provisions of the [Company Name] [Stock Plan Name] (the ""Plan"") adopted by the <Company>, which is incorporated in this Stock Option Agreement (this ""Agreement"") by reference. 
 
         \ Definitions \
-        The following capitalized terms used in this <Agreement> have the meanings ascribed to them in the <Plan>: ""Administrator"", ""Affiliate"", ""Applicable Law"", ""Applicable Laws"", ""Award"", ""Awards"", ""Cashless Exercise"", ""Cause"", ""Code"", ""Common Stock"", ""Company Securities"", ""Consultant"", ""Continuous Service Status"", ""Disability"", ""Employee"", ""Expiration Date"", ""Incentive Stock Option"", ""Nonstatutory Stock Option"", ""Optioned Stock"", ""Options"", ""Parent"", ""Share"", ""Subsidiary"", ""Termination Period"" and ""Vesting/Exercise Schedule"".
+        The following capitalized terms used in this <Agreement> have the meanings ascribed to them in the <Plan>: ""Administrator"", ""Affiliate"", ""Applicable Law"", ""Applicable Laws"", ""Award"", ""Awards"", ""Cashless Exercise"", ""Cause"", ""Code"", ""Common Stock"", ""Consultant"", ""Continuous Service Status"", ""Disability"", ""Employee"", ""Expiration Date"", ""Incentive Stock Option"", ""Nonstatutory Stock Option"", ""Optioned Stock"", ""Options"", ""Parent"", ""Share"", ""Subsidiary"", ""Termination Period"" and ""Vesting/Exercise Schedule"".
 
         \ Designation of Option \
         This <Option> is intended to be an <Incentive Stock Option> as defined in Section 422 of the <Code> only to the extent so designated in the <Notice>, and to the extent it is not so designated or to the extent this <Option> does not qualify as an <Incentive Stock Option>, it is intended to be a <Nonstatutory Stock Option>. 
@@ -109,18 +109,7 @@
         (( require ./shared/other-requirements ))
 
         \ Electronic Delivery \
-        The <Company> may, in its sole discretion, decide to deliver any documents related to <Recipient>'s current or future participation in the <Plan>, this <Option>, the <Shares> subject to this <Option>, any other <Company Securities> or any other <Company>-related documents, by electronic means. 
-
-        <Recipient> hereby
-
-            \\
-            consents to receive such documents by electronic means,
-
-            \\
-            consents to the use of electronic signatures, and
-
-            \\
-            if applicable, agrees to participate in the <Plan> and/or receive any such documents through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
+        (( require ./shared/electronic-delivery ))
 
         \ No Acquired Rights \
         In accepting the <Option>, <Recipient> acknowledges that the <Plan> is established voluntarily by the <Company>, is discretionary in nature, and may be modified, amended, suspended or terminated by the <Company> at any time. 
