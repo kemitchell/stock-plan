@@ -137,7 +137,6 @@
 
                 (( end ))
 
-            \ Transfer Restrictions; Right of First Refusal \
             (( require ./shared/transfer-restrictions ))
 
             \ Lock-Up Agreement \

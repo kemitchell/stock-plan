@@ -63,6 +63,8 @@ $(CF) $(CFT):
 
 LINT_TARGETS=$(BASENAMES:=.lint)
 
+TERMS_FROM_PLAN=Restricted-Stock-Purchase-Agreement Option-Exercise-Agreement
+
 .PHONY: clean lint
 
 clean:
