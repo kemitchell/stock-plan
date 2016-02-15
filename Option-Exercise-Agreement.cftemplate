@@ -34,7 +34,7 @@
         (( require ./shared/transfer-restrictions ))
 
             \ Lock-Up Agreement \
-            The lock-up provisions set forth in the lock-up provisions of the <Option Agreement> shall apply to the <Shares> issued upon exercise of the <Option> hereunder and <Purchaser> reaffirms <Purchaser>'s obligations set forth therein.
+            (( require ./shared/lock-up ))
 
         \ Investment and Taxation Representations \
         (( require ./shared/stock-purchase-representations ))

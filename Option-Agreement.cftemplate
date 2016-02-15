@@ -95,7 +95,7 @@
         The terms of this <Option> shall be binding upon the executors, administrators, heirs, successors and assigns of <Optionee>.
 
         \ Lock-Up Agreement \
-        If so requested by the <Company> or the underwriters in connection with the initial public offering of the <Company>'s securities registered under the Securities Act of 1933, as amended, <Optionee> shall not sell, make any short sale of, loan, grant any option for the purchase of, or otherwise dispose of any securities of the <Company> however or whenever acquired (except for those being registered) without the prior written consent of the <Company> or such underwriters, as the case may be, for 180 days from the effective date of the registration statement, plus such additional period, to the extent required by FINRA rules, up to a maximum of 216 days from the effective date of the registration statement, and <Optionee> shall execute an agreement reflecting the foregoing as may be requested by the underwriters at the time of such offering.
+        (( require ./shared/lock-up ))
 
         \ Effect of Agreement \
         <Optionee> acknowledges receipt of a copy of the <Plan> and represents that he or she is familiar with the terms and provisions thereof (and has had an opportunity to consult counsel regarding the <Option> terms), and hereby accepts this <Option> and agrees to be bound by its contractual terms as set forth herein and in the <Plan>. 
