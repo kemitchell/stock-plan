@@ -225,11 +225,7 @@
             (( require ./shared/electronic-delivery ))
 
             \ Imposition of Other Requirements \
-            The <Company> reserves the right to impose other requirements on <Purchaser>'s participation in the <Plan> and on any Award or <Shares> acquired under the <Plan>, to the extent the <Company> determines it is necessary or advisable in order to comply with Applicable Law or facilitate the administration of the <Plan>. 
-
-            <Purchaser> agrees to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing. 
-
-            Furthermore, <Purchaser> acknowledges that the laws of the country in which <Purchaser> is working at the time of grant of this <Agreement>, the purchase, vesting or sale of <Shares> received pursuant to this <Agreement> (including any rules or regulations governing securities, foreign exchange, tax, labor, or other matters) may subject <Purchaser> to additional procedural or regulatory requirements that <Purchaser> is and will be solely responsible for and must fulfill.
+            (( require ./shared/other-requirements ))
 
             \ California Corporate Securities Law !!
             (( require ./shared/california-securities ))

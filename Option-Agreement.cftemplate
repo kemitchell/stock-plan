@@ -105,11 +105,7 @@
         In the event of a conflict between the terms and provisions of the <Plan> and the terms and provisions of the <Notice> and this <Agreement>, the <Plan> terms and provisions shall prevail.
 
         \ Imposition of Other Requirements \
-        The <Company> reserves the right to impose other requirements on <Optionee>'s participation in the <Plan>, on the <Option> and on any <Award> or <Shares> acquired under the <Plan>, to the extent the <Company> determines it is necessary or advisable in order to comply with <Applicable Laws> or facilitate the administration of the <Plan>. 
-
-        <Optionee> agrees to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing. 
-
-        Furthermore, <Optionee> acknowledges that the laws of the country in which <Optionee> is working at the time of grant, vesting and exercise of the <Option> or the sale of <Shares> received pursuant to this <Agreement> (including any rules or regulations governing securities, foreign exchange, tax, labor, or other matters) may subject <Optionee> to additional procedural or regulatory requirements that <Optionee> is and will be solely responsible for and must fulfill.
+        (( require ./shared/other-requirements ))
 
         \ Electronic Delivery \
         The <Company> may, in its sole discretion, decide to deliver any documents related to <Optionee>'s current or future participation in the <Plan>, this <Option>, the <Shares> subject to this <Option>, any other <Company Securities> or any other <Company>-related documents, by electronic means. 
