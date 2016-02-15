@@ -46,6 +46,9 @@
             \ Governing Law \
             (( require ./shared/governing-law ))
 
+            \ English Language Documents Govern \
+            (( require ./shared/english-language ))
+
             \ Entire Agreement \
             (( require ./shared/entire-agreement ))
 
