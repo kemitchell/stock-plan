@@ -234,10 +234,14 @@
         \ Rule 506(d)(1)(i) to (viii) under the Securities Act of 1933, as amended \
         (( require ./shared/rule-506-bad-actor-excerpt ))
 
-    \ Stock Power \ (Attached)
+    \ Stock Power \
+    (Attached)
 
-    \ 83(b) Acknowledgment and Statement of Decision \ (Attached)
+    \ 83(b) Acknowledgment and Statement of Decision \
+    (Attached)
 
-    \ 83(b) Election \ (Attached)
+    \ 83(b) Election \
+    (Attached)
 
-    \ Receipt and Consent \ (Attached)
+    \ Receipt and Consent \
+    (Attached)
