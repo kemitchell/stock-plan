@@ -20,35 +20,7 @@
         In addition, <Purchaser> shall satisfy any applicable tax, withholding obligations, required deductions or other payments, all in accordance with the <Plan>.
 
         \ Limitations on Transfer \
-        In addition to any other limitation on transfer created by 
-
-        (( if Transfer Restrictions in Bylaws start ))
-
-        (( if Transfer Restrictions in Plan start ))
-
-        the transfer restrictions set forth in in the <Company>'s Bylaws and the <Plan> or 
-
-        (( end ))
-
-        (( unless Transfer Restrictions in Plan start ))
-
-        the transfer restrictions set forth in in the <Company>'s Bylaws or 
-
-        (( end ))
-
-        (( end ))
-
-        (( if Transfer Restrictions in Plan start ))
-
-        (( unless Transfer Restrictions in Bylaws start ))
-
-        the transfer restrictions set forth in in the <Plan> or 
-
-        (( end ))
-
-        (( end ))
-
-        or by Applicable Laws, <Purchaser> shall not assign, encumber or dispose of any interest in the <Shares> except to the extent permitted by, and in compliance with the provisions below and Applicable Laws.
+        (( require ./shared/limitations-on-transfer ))
 
             \ Repurchase Option; Vesting \
 

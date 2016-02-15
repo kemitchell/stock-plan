@@ -18,18 +18,7 @@
         The <Company> will deliver to <Purchaser> a stock certificate or, in the case of uncertificated securities upon request, a notice of issuance, for the <Shares> as soon as practicable following such date.
 
         \ Limitations on Transfer \
-        In addition to any other limitation on transfer created by
-
-        # Optional
-        the transfer restrictions set forth in the 
-
-        # Optional
-        <Company>'s Bylaws 
-
-        # Optional
-        AND/OR the non-transferability provisions of the <Plan> or by 
-
-        <Applicable Laws>, <Purchaser> shall not assign, encumber or dispose of any interest in the <Shares> except in compliance with the provisions below and <Applicable Laws>.
+        (( require ./shared/limitations-on-transfer ))
 
         (( require ./shared/transfer-restrictions ))
 
