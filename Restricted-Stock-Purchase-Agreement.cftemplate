@@ -448,13 +448,7 @@
             <Purchaser> agrees that <Purchaser> will execute and deliver to the <Company> with this executed <Agreement> a copy of the Acknowledgment and Statement of Decision Regarding Section 83(b) Election (the ""Acknowledgment""), attached hereto as {83(b) Acknowledgment and Statement of Decision} and, if <Purchaser> decides to make an 83(b) Election, a copy of the <83(b) Election>, attached hereto as {83(b) Election}.
 
         \ Waiver of Statutory Information Rights \
-        <Purchaser> acknowledges and understands that, but for the waiver made herein, <Purchaser> would be entitled, upon written demand under oath stating the purpose thereof, to inspect for any proper purpose, and to make copies and extracts from, the <Company>'s stock ledger, a list of its stockholders, and its other books and records, and the books and records of subsidiaries of the <Company>, if any, under the circumstances and in the manner provided in Section 220 of the Delaware General Corporation Law (any and all such rights, and any and all such other rights of <Purchaser> as may be provided for in Section 220, the ""Inspection Rights""). 
-
-        In light of the foregoing, until the first sale of Common Stock of the <Company> to the general public pursuant to a registration statement filed with and declared effective by the Securities and Exchange Commission under the Securities Act of 1933, as amended, <Purchaser> hereby unconditionally and irrevocably waives the <Inspection Rights>, whether such <Inspection Rights> would be exercised or pursued directly or indirectly pursuant to Section 220 or otherwise, and covenants and agrees never to directly or indirectly commence, voluntarily aid in any way, prosecute, assign, transfer, or cause to be commenced any claim, action, cause of action, or other proceeding to pursue or exercise the <Inspection Rights>. 
-
-        The foregoing waiver applies to the <Inspection Rights> of <Purchaser> in <Purchaser>'s capacity as a stockholder and shall not affect any rights of a director, in his or her capacity as such, under Section 220. 
-
-        The foregoing waiver shall not apply to any contractual inspection rights of <Purchaser> under any written agreement with the <Company>.
+        (( require ./shared/waiver-of-information-rights ))
 
         \ Miscellaneous \
 
@@ -493,9 +487,7 @@
             Furthermore, <Purchaser> acknowledges that the laws of the country in which <Purchaser> is working at the time of grant of this <Agreement>, the purchase, vesting or sale of <Shares> received pursuant to this <Agreement> (including any rules or regulations governing securities, foreign exchange, tax, labor, or other matters) may subject <Purchaser> to additional procedural or regulatory requirements that <Purchaser> is and will be solely responsible for and must fulfill.
 
             \ California Corporate Securities Law !!
-            The sale of the securities which are the subject of this <Agreement> has not been qualified with the Commissioner of Business Oversight of the State of California and the issuance of the securities or the payment or receipt of any part of the consideration therefor prior to the qualification is unlawful, unless the sale of securities is exempt from qualification by section 25100, 25102 or 25105 of the California Corporations Code. 
-
-            The rights of all parties to this <Agreement> are expressly conditioned upon the qualification being obtained, unless the sale is so exempt.
+            (( require ./shared/california-securities ))
 
     \\
 
