@@ -61,7 +61,14 @@ output/%.pdf: output/%.docx
 $(CF) $(CFT):
 	npm i
 
-.PHONY: clean
+LINT_TARGETS=$(BASENAMES:=.lint)
+
+.PHONY: clean lint
 
 clean:
 	rm -f $(TARGETS:=.docx) $(TARGETS:=.pdf) $(TARGETS:=.cform)
+
+lint: $(LINT_TARGETS)
+
+%.lint: %.cform $(CF)
+	$(CF) lint $*.cform
