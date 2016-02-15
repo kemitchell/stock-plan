@@ -25,7 +25,7 @@
             \ Repurchase Option; Vesting \
 
                 \\
-                In the event of the voluntary or involuntary termination of <Purchaser>'s Continuous Service Status for any reason (including death or Disability), with or without cause, the <Company> shall upon the date of such termination (the ""Termination Date"") have an irrevocable, exclusive option (the ""Repurchase Option"") for a period of [Company Repurchase Period] from such date (a ""Repurchase Period"") to repurchase all or any portion of the Unvested <Shares> held by <Purchaser> as of the <Termination Date> at the original purchase price per Share (adjusted for any stock splits, stock dividends and the like) specified in {Sale of Stock}. 
+                In the event of the voluntary or involuntary termination of <Purchaser>'s <Continuous Service Status> for any reason (including death or Disability), with or without cause, the <Company> shall upon the date of such termination (the ""Termination Date"") have an irrevocable, exclusive option (the ""Repurchase Option"") for a period of [Company Repurchase Period] from such date (a ""Repurchase Period"") to repurchase all or any portion of the <Unvested Shares> held by <Purchaser> as of the <Termination Date> at the original purchase price per <Share> (adjusted for any stock splits, stock dividends and the like) specified in {Sale of Stock}. 
 
                 As used in this <Agreement>, ""Unvested Shares"" means <Shares> that have not yet been released from the <Repurchase Option>.
 
@@ -68,7 +68,7 @@
                     a merger, consolidation or other capital reorganization or business combination transaction of the <Company> with or into another corporation, limited liability company or other entity other than an <Excluded Entity>; or
 
                     \\
-                    the consummation of a transaction, or series of related transactions, in which any "person" (as such term is used in Sections 13(d) and 14(d) of the Exchange Act) becomes the "beneficial owner" (as defined in Rule 13d-3 of the Exchange Act), directly or indirectly, of all of the <Company>'s then outstanding voting securities.
+                    the consummation of a transaction, or series of related transactions, in which any "person" (as such term is used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all of the <Company>'s then outstanding voting securities.
 
                 Notwithstanding the foregoing, a transaction shall not constitute a <Change of Control> if its purpose is to
 
@@ -79,7 +79,7 @@
                     create a holding company that will be owned in substantially the same proportions by the persons who hold the <Company>'s securities immediately before such transaction, or
 
                     \\
-                    obtain funding for the <Company> in a financing that is approved by the <Company>'s Board.
+                    obtain funding for the <Company> in a financing that is approved by the <Company>'s <Board>.
 
                 An ""Excluded Entity"" means a corporation, limited liability company or other entity of which the holders of voting capital stock of the <Company> outstanding immediately prior to such transaction are the direct or indirect holders of voting securities representing at least a majority of the votes entitled to be cast by all of such corporation's, limited liability company's or other entity's voting securities outstanding immediately after such transaction.
 
@@ -129,7 +129,7 @@
                 If the <Good Reason> condition is not remedied within such 30 day period, <Purchaser> may resign based on the <Good Reason> condition specified in the notice effective no later than 30 days following the expiration of the 30-day cure period.
 
                 \\
-                If <Purchaser> is a Director but not an Employee or Consultant of the <Company> (or a successor, if appropriate) at the time of consummation of the <Change of Control> and <Purchaser> is removed from, or is not reelected to, the Board of Directors of the <Company> (or a successor, as appropriate) in connection with or following the consummation of a <Change of Control>, the vesting of any <Unvested Shares> shall accelerate such that the <Repurchase Option> shall lapse to the same extent as if <Purchaser> had been terminated without Cause as described above.
+                If <Purchaser> is a <Director> but not an <Employee> or <Consultant> of the <Company> (or a successor, if appropriate) at the time of consummation of the <Change of Control> and <Purchaser> is removed from, or is not reelected to, the Board of Directors of the <Company> (or a successor, as appropriate) in connection with or following the consummation of a <Change of Control>, the vesting of any <Unvested Shares> shall accelerate such that the <Repurchase Option> shall lapse to the same extent as if <Purchaser> had been terminated without <Cause> as described above.
 
                 (( end ))
 
@@ -143,7 +143,7 @@
             (( require ./shared/lock-up ))
 
         \ Escrow of Unvested Shares \
-        For purposes of facilitating the enforcement of the provisions of {Limitations on Transfer}, <Purchaser> agrees to deliver a Stock Power in the form attached to this <Agreement> as {Stock Power} executed by <Purchaser> and by <Purchaser>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and Stock Power in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required in accordance with the terms of this <Agreement>. 
+        For purposes of facilitating the enforcement of the provisions of {Limitations on Transfer}, <Purchaser> agrees to deliver a <Stock Power> in the form attached to this <Agreement> as {Stock Power} executed by <Purchaser> and by <Purchaser>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and <Stock Power> in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required in accordance with the terms of this <Agreement>. 
 
         <Purchaser> hereby acknowledges that the Secretary of the <Company>, or the Secretary's designee, is so appointed as the escrow holder with the foregoing authorities as a material inducement to make this <Agreement> and that said appointment is coupled with an interest and is accordingly irrevocable. 
 
@@ -168,13 +168,13 @@
         \ Section 83(b) Election \
 
             \\
-            <Purchaser> understands that Section 83(a) of the Internal Revenue Code of 1986, as amended (the ""Code""), taxes as ordinary income the difference between the amount paid for the <Shares> and the Fair Market Value of the <Shares> as of the date any restrictions on the <Shares> lapse. 
+            <Purchaser> understands that Section 83(a) of the Internal Revenue Code of 1986, as amended (the ""Code""), taxes as ordinary income the difference between the amount paid for the <Shares> and the <Fair Market Value> of the <Shares> as of the date any restrictions on the <Shares> lapse. 
 
             In this context, "restriction" means the right of the <Company> to buy back the <Shares> pursuant to the <Repurchase Option> set forth in {Repurchase Option; Vesting}. 
 
             <Purchaser> understands that <Purchaser> may elect to be taxed at the time the <Shares> are purchased, rather than when and as the <Repurchase Option> expires, by filing an election under Section 83(b) (an ""83(b) Election"") of the <Code> with the Internal Revenue Service within 30 days from the date of purchase. 
 
-            Even if the Fair Market Value of the <Shares> at the time of the execution of this <Agreement> equals the amount paid for the <Shares>, the election must be made to avoid income under Section 83(a) in the future. 
+            Even if the <Fair Market Value> of the <Shares> at the time of the execution of this <Agreement> equals the amount paid for the <Shares>, the election must be made to avoid income under Section 83(a) in the future. 
 
             <Purchaser> understands that failure to file such an election in a timely manner may result in adverse tax consequences for <Purchaser>. 
 
