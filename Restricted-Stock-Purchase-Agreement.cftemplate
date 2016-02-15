@@ -25,7 +25,7 @@
             \ Repurchase Option; Vesting \
 
                 \\
-                In the event of the voluntary or involuntary termination of <Purchaser>'s Continuous Service Status for any reason (including death or Disability), with or without cause, the <Company> shall upon the date of such termination (the ""Termination Date"") have an irrevocable, exclusive option (the ""Repurchase Option"") for a period of [Company Repurchase Period] from such date (a ""Repurchase Period"") to repurchase all or any portion of the Unvested <Shares> (as defined below) held by <Purchaser> as of the <Termination Date> at the original purchase price per Share (adjusted for any stock splits, stock dividends and the like) specified in {Sale of Stock}. 
+                In the event of the voluntary or involuntary termination of <Purchaser>'s Continuous Service Status for any reason (including death or Disability), with or without cause, the <Company> shall upon the date of such termination (the ""Termination Date"") have an irrevocable, exclusive option (the ""Repurchase Option"") for a period of [Company Repurchase Period] from such date (a ""Repurchase Period"") to repurchase all or any portion of the Unvested <Shares> held by <Purchaser> as of the <Termination Date> at the original purchase price per Share (adjusted for any stock splits, stock dividends and the like) specified in {Sale of Stock}. 
 
                 As used in this <Agreement>, ""Unvested Shares"" means <Shares> that have not yet been released from the <Repurchase Option>.
 
@@ -62,7 +62,7 @@
                 As used in this <Agreement>, ""Change of Control"" means
 
                     \\
-                    a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity> (as defined below);
+                    a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity>;
 
                     \\
                     a merger, consolidation or other capital reorganization or business combination transaction of the <Company> with or into another corporation, limited liability company or other entity other than an <Excluded Entity>; or
