@@ -41,6 +41,9 @@
         \ Waiver of Statutory Information Rights \
         (( require ./shared/waiver-of-information-rights ))
 
+        \ Data Privacy \
+        (( require ./shared/data-privacy ))
+
         \ Miscellaneous \
 
             \ Governing Law \
