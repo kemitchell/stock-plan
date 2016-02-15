@@ -3,7 +3,7 @@ CFT=node_modules/.bin/cftemplate
 JSON=node_modules/.bin/json
 SHARED=$(wildcard shared/*.cform)
 
-BASENAMES=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval Board-Approval Restricted-Stock-Purchase-Agreement Stock-Power Receipt-from-Purchaser 83b-Election Receipt-from-Company 83b-Statement
+BASENAMES=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval Board-Approval Restricted-Stock-Purchase-Agreement Stock-Power Receipt-from-Recipient 83b-Election Receipt-from-Company 83b-Statement
 TARGETS=$(addprefix output/,$(BASENAMES))
 
 all: output $(TARGETS:=.docx)

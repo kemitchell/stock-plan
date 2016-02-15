@@ -1,0 +1,5 @@
+[ { "header": "The Recipient is signing this Receipt and Consent as of the date by their signature.",
+    "term": "Recipient",
+    "information": [ "date", "email", "address" ] },
+  { "header": "I, the spouse of the Recipient, cosign this Recept and Consent as of the date of the date by my signature.",
+    "information": [ "date" ] } ]

@@ -1,23 +1,23 @@
     \\
-    This Restricted Stock Purchase Agreement (this ""Agreement"") is made as of [Date] by and between [Company Name], a Delaware corporation (the ""Company""), and [Purchaser Name] (""Purchaser"") pursuant to the <Company>'s [Stock Plan Name] (the ""Plan""). 
+    This Restricted Stock Purchase Agreement (this ""Agreement"") is made as of [Date] by and between [Company Name], a Delaware corporation (the ""Company""), and [Recipient Name] (""Recipient"") pursuant to the <Company>'s [Stock Plan Name] (the ""Plan""). 
 
     To the extent any capitalized terms used in this <Agreement> are not defined, they shall have the meaning ascribed to them in the <Plan>.
 
         \ Sale of Stock \
-        Subject to the terms and conditions of this <Agreement>, simultaneously with the execution and delivery of this <Agreement> by the parties or on such other date as the <Company> and <Purchaser> shall agree (the ""Purchase Date""), the <Company> will issue and sell to <Purchaser>, and <Purchaser> agrees to purchase from the <Company>, [Shares] shares of the <Company>'s Common Stock (the ""Shares"") at a purchase price of [Price Per Share] per share for a total purchase price of [Purchase Price] (the ""Aggregate Purchase Price""). 
+        Subject to the terms and conditions of this <Agreement>, simultaneously with the execution and delivery of this <Agreement> by the parties or on such other date as the <Company> and <Recipient> shall agree (the ""Purchase Date""), the <Company> will issue and sell to <Recipient>, and <Recipient> agrees to purchase from the <Company>, [Shares] shares of the <Company>'s Common Stock (the ""Shares"") at a purchase price of [Price Per Share] per share for a total purchase price of [Purchase Price] (the ""Aggregate Purchase Price""). 
 
-        On the <Purchase Date>, <Purchaser> will deliver the <Aggregate Purchase Price> to the <Company> and the <Company> will enter the <Shares> in <Purchaser>'s name as of such date in the books and records of the <Company> or, if applicable, a duly authorized transfer agent of the <Company>. 
+        On the <Purchase Date>, <Recipient> will deliver the <Aggregate Purchase Price> to the <Company> and the <Company> will enter the <Shares> in <Recipient>'s name as of such date in the books and records of the <Company> or, if applicable, a duly authorized transfer agent of the <Company>. 
 
-        The <Company> will deliver to <Purchaser> a stock certificate representing, or, upon request, a notice of issuance with respect to, the <Shares> as soon as practicable following such date. 
+        The <Company> will deliver to <Recipient> a stock certificate representing, or, upon request, a notice of issuance with respect to, the <Shares> as soon as practicable following such date. 
 
-        As used elsewhere herein, the term <Shares> refers to all of the <Shares> purchased hereunder and all securities received in connection with the <Shares> pursuant to stock dividends or splits, all securities received in replacement of the <Shares> in a recapitalization, merger, reorganization, exchange or the like, and all new, substituted or additional securities or other property to which <Purchaser> is entitled by reason of <Purchaser>'s ownership of the <Shares>. 
+        As used elsewhere herein, the term <Shares> refers to all of the <Shares> purchased hereunder and all securities received in connection with the <Shares> pursuant to stock dividends or splits, all securities received in replacement of the <Shares> in a recapitalization, merger, reorganization, exchange or the like, and all new, substituted or additional securities or other property to which <Recipient> is entitled by reason of <Recipient>'s ownership of the <Shares>. 
 
-        By <Purchaser>'s signature and the signature of the <Company>'s representative below, <Purchaser> and the <Company> agree that this acquisition of <Shares> is governed by the terms and conditions of this <Agreement> and the [Company Name] [Stock Plan Name] which is attached to and made a part of this <Agreement>.
+        By <Recipient>'s signature and the signature of the <Company>'s representative below, <Recipient> and the <Company> agree that this acquisition of <Shares> is governed by the terms and conditions of this <Agreement> and the [Company Name] [Stock Plan Name] which is attached to and made a part of this <Agreement>.
 
         \ Consideration for Shares \
         Payment of the <Aggregate Purchase Price> shall be made by any method permitted by the <Company> and authorized under the <Plan>. 
 
-        In addition, <Purchaser> shall satisfy any applicable tax, withholding obligations, required deductions or other payments, all in accordance with the <Plan>.
+        In addition, <Recipient> shall satisfy any applicable tax, withholding obligations, required deductions or other payments, all in accordance with the <Plan>.
 
         \ Limitations on Transfer \
         (( require ./shared/limitations-on-transfer ))
@@ -25,29 +25,29 @@
             \ Repurchase Option; Vesting \
 
                 \\
-                In the event of the voluntary or involuntary termination of <Purchaser>'s <Continuous Service Status> for any reason (including death or Disability), with or without cause, the <Company> shall upon the date of such termination (the ""Termination Date"") have an irrevocable, exclusive option (the ""Repurchase Option"") for a period of [Company Repurchase Period] from such date (a ""Repurchase Period"") to repurchase all or any portion of the <Unvested Shares> held by <Purchaser> as of the <Termination Date> at the original purchase price per <Share> (adjusted for any stock splits, stock dividends and the like) specified in {Sale of Stock}. 
+                In the event of the voluntary or involuntary termination of <Recipient>'s <Continuous Service Status> for any reason (including death or Disability), with or without cause, the <Company> shall upon the date of such termination (the ""Termination Date"") have an irrevocable, exclusive option (the ""Repurchase Option"") for a period of [Company Repurchase Period] from such date (a ""Repurchase Period"") to repurchase all or any portion of the <Unvested Shares> held by <Recipient> as of the <Termination Date> at the original purchase price per <Share> (adjusted for any stock splits, stock dividends and the like) specified in {Sale of Stock}. 
 
                 As used in this <Agreement>, ""Unvested Shares"" means <Shares> that have not yet been released from the <Repurchase Option>.
 
                 \ Company Exercise \
-                Unless the <Company> notifies <Purchaser> within a <Repurchase Period> that it does not intend to exercise its <Repurchase Option> with respect to some or all of the <Unvested Shares>, the <Repurchase Option> shall be deemed automatically exercised by the <Company> as of the end of such <Repurchase Period>, provided that the <Company> may notify <Purchaser> that it is exercising its <Repurchase Option> as of a date prior to the end of such <Repurchase Period>. 
+                Unless the <Company> notifies <Recipient> within a <Repurchase Period> that it does not intend to exercise its <Repurchase Option> with respect to some or all of the <Unvested Shares>, the <Repurchase Option> shall be deemed automatically exercised by the <Company> as of the end of such <Repurchase Period>, provided that the <Company> may notify <Recipient> that it is exercising its <Repurchase Option> as of a date prior to the end of such <Repurchase Period>. 
 
-                Unless <Purchaser> is otherwise notified by the <Company> pursuant to the preceding sentence that the <Company> does not intend to exercise its <Repurchase Option> as to some or all of the <Unvested Shares> to which it applies at the time of termination, execution of this <Agreement> by <Purchaser> constitutes written notice to <Purchaser> of the <Company>'s intention to exercise its <Repurchase Option> with respect to all <Unvested Shares> to which such <Repurchase Option> applies. 
+                Unless <Recipient> is otherwise notified by the <Company> pursuant to the preceding sentence that the <Company> does not intend to exercise its <Repurchase Option> as to some or all of the <Unvested Shares> to which it applies at the time of termination, execution of this <Agreement> by <Recipient> constitutes written notice to <Recipient> of the <Company>'s intention to exercise its <Repurchase Option> with respect to all <Unvested Shares> to which such <Repurchase Option> applies. 
 
-                The <Company>, at its choice, may satisfy its payment obligation to <Purchaser> with respect to exercise of the <Repurchase Option> by either:
+                The <Company>, at its choice, may satisfy its payment obligation to <Recipient> with respect to exercise of the <Repurchase Option> by either:
 
                     \ Check \
-                    delivering a check to <Purchaser> in the amount of the purchase price for the <Unvested Shares> being repurchased; or
+                    delivering a check to <Recipient> in the amount of the purchase price for the <Unvested Shares> being repurchased; or
 
                     \ Cancellation of Indebtedness \
-                    in the event <Purchaser> is indebted to the <Company>, canceling an amount of such indebtedness equal to the purchase price for the <Unvested Shares> being repurchased; or
+                    in the event <Recipient> is indebted to the <Company>, canceling an amount of such indebtedness equal to the purchase price for the <Unvested Shares> being repurchased; or
 
                     \\
                     by a combination of {Check} and {Cancellation of Indebtedness} so that the combined payment and cancellation of indebtedness equals such purchase price.
 
-                In the event of any deemed automatic exercise of the <Repurchase Option> in which <Purchaser> is indebted to the <Company>, such indebtedness equal to the purchase price of the <Unvested Shares> being repurchased shall be deemed automatically canceled as of the end of the <Repurchase Period> unless the <Company> otherwise satisfies its payment obligations. 
+                In the event of any deemed automatic exercise of the <Repurchase Option> in which <Recipient> is indebted to the <Company>, such indebtedness equal to the purchase price of the <Unvested Shares> being repurchased shall be deemed automatically canceled as of the end of the <Repurchase Period> unless the <Company> otherwise satisfies its payment obligations. 
 
-                As a result of any repurchase of <Unvested Shares> pursuant to {Repurchase Option; Vesting}, the <Company> shall become the legal and beneficial owner of the <Unvested Shares> being repurchased and shall have all rights and interest therein or related thereto, and the <Company> shall have the right to transfer to its own name the number of <Unvested Shares> being repurchased by the <Company>, without further action by <Purchaser>.
+                As a result of any repurchase of <Unvested Shares> pursuant to {Repurchase Option; Vesting}, the <Company> shall become the legal and beneficial owner of the <Unvested Shares> being repurchased and shall have all rights and interest therein or related thereto, and the <Company> shall have the right to transfer to its own name the number of <Unvested Shares> being repurchased by the <Company>, without further action by <Recipient>.
 
                 \\
                 [Vesting Shares] of the <Shares> shall initially be subject to the <Repurchase Option> (the ""Vesting Shares""). 
@@ -93,7 +93,7 @@
                 (( if Double-Trigger start ))
 
                 \\
-                Notwithstanding the foregoing, if <Purchaser> is terminated without Cause by the <Company> (or a successor, if appropriate) 
+                Notwithstanding the foregoing, if <Recipient> is terminated without Cause by the <Company> (or a successor, if appropriate) 
 
                 (( if Accelerate on Resignation start ))
 
@@ -108,28 +108,28 @@
                 (( if Acceleration on Change of Control start ))
 
                 \\
-                In the case of a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Purchaser> transfers his employment to such acquirer in connection with such asset sale transaction, then any acceleration of vesting that would otherwise occur upon <Purchaser>'s termination shall occur immediately prior to, and contingent upon, the consummation of such asset sale transaction.
+                In the case of a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Recipient> transfers his employment to such acquirer in connection with such asset sale transaction, then any acceleration of vesting that would otherwise occur upon <Recipient>'s termination shall occur immediately prior to, and contingent upon, the consummation of such asset sale transaction.
 
                 \\
-                As used in this <Agreement>, ""Good Reason"" will mean <Purchaser>'s resignation due to the occurrence of any of the following conditions which occurs without <Purchaser>'s written consent, provided that the requirements regarding advance notice and an opportunity to cure set forth below are satisfied:
+                As used in this <Agreement>, ""Good Reason"" will mean <Recipient>'s resignation due to the occurrence of any of the following conditions which occurs without <Recipient>'s written consent, provided that the requirements regarding advance notice and an opportunity to cure set forth below are satisfied:
 
                     \\
-                    a reduction of <Purchaser>'s then current base salary by 10% or more unless such reduction is part of a generalized salary reduction affecting similarly situated employees;
+                    a reduction of <Recipient>'s then current base salary by 10% or more unless such reduction is part of a generalized salary reduction affecting similarly situated employees;
 
                     \\
-                    a change in <Purchaser>'s position with the <Company> that materially reduces <Purchaser>'s duties, level of authority or responsibility; or
+                    a change in <Recipient>'s position with the <Company> that materially reduces <Recipient>'s duties, level of authority or responsibility; or
 
                     \\
-                    the <Company> conditions <Purchaser>'s continued service with the <Company> on <Purchaser>'s being transferred to a site of employment that would increase <Purchaser>'s one-way commute by more than 35 miles from <Purchaser>'s then principal residence.
+                    the <Company> conditions <Recipient>'s continued service with the <Company> on <Recipient>'s being transferred to a site of employment that would increase <Recipient>'s one-way commute by more than 35 miles from <Recipient>'s then principal residence.
 
-                In order for <Purchaser> to resign for <Good Reason>, <Purchaser> must provide written notice to the <Company> of the existence of the <Good Reason> condition within 60 days of the initial existence of such <Good Reason> condition. 
+                In order for <Recipient> to resign for <Good Reason>, <Recipient> must provide written notice to the <Company> of the existence of the <Good Reason> condition within 60 days of the initial existence of such <Good Reason> condition. 
 
                 Upon receipt of such notice, the <Company> will have 30 days during which it may remedy the <Good Reason> condition and not be required to provide for the vesting acceleration described herein as a result of such proposed resignation. 
 
-                If the <Good Reason> condition is not remedied within such 30 day period, <Purchaser> may resign based on the <Good Reason> condition specified in the notice effective no later than 30 days following the expiration of the 30-day cure period.
+                If the <Good Reason> condition is not remedied within such 30 day period, <Recipient> may resign based on the <Good Reason> condition specified in the notice effective no later than 30 days following the expiration of the 30-day cure period.
 
                 \\
-                If <Purchaser> is a <Director> but not an <Employee> or <Consultant> of the <Company> (or a successor, if appropriate) at the time of consummation of the <Change of Control> and <Purchaser> is removed from, or is not reelected to, the Board of Directors of the <Company> (or a successor, as appropriate) in connection with or following the consummation of a <Change of Control>, the vesting of any <Unvested Shares> shall accelerate such that the <Repurchase Option> shall lapse to the same extent as if <Purchaser> had been terminated without <Cause> as described above.
+                If <Recipient> is a <Director> but not an <Employee> or <Consultant> of the <Company> (or a successor, if appropriate) at the time of consummation of the <Change of Control> and <Recipient> is removed from, or is not reelected to, the Board of Directors of the <Company> (or a successor, as appropriate) in connection with or following the consummation of a <Change of Control>, the vesting of any <Unvested Shares> shall accelerate such that the <Repurchase Option> shall lapse to the same extent as if <Recipient> had been terminated without <Cause> as described above.
 
                 (( end ))
 
@@ -143,15 +143,15 @@
             (( require ./shared/lock-up ))
 
         \ Escrow of Unvested Shares \
-        For purposes of facilitating the enforcement of the provisions of {Limitations on Transfer}, <Purchaser> agrees to deliver a <Stock Power> in the form attached to this <Agreement> as {Stock Power} executed by <Purchaser> and by <Purchaser>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and <Stock Power> in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required in accordance with the terms of this <Agreement>. 
+        For purposes of facilitating the enforcement of the provisions of {Limitations on Transfer}, <Recipient> agrees to deliver a <Stock Power> in the form attached to this <Agreement> as {Stock Power} executed by <Recipient> and by <Recipient>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and <Stock Power> in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required in accordance with the terms of this <Agreement>. 
 
-        <Purchaser> hereby acknowledges that the Secretary of the <Company>, or the Secretary's designee, is so appointed as the escrow holder with the foregoing authorities as a material inducement to make this <Agreement> and that said appointment is coupled with an interest and is accordingly irrevocable. 
+        <Recipient> hereby acknowledges that the Secretary of the <Company>, or the Secretary's designee, is so appointed as the escrow holder with the foregoing authorities as a material inducement to make this <Agreement> and that said appointment is coupled with an interest and is accordingly irrevocable. 
 
-        <Purchaser> agrees that said escrow holder shall not be liable to any party hereof (or to any other party). 
+        <Recipient> agrees that said escrow holder shall not be liable to any party hereof (or to any other party). 
 
         The escrow holder may rely upon any letter, notice or other document executed by any signature purported to be genuine and may resign at any time. 
 
-        <Purchaser> agrees that if the Secretary of the <Company>, or the Secretary's designee, resigns as escrow holder for any or no reason, the Board of Directors of the <Company> shall have the power to appoint a successor to serve as escrow holder pursuant to the terms of this <Agreement>.
+        <Recipient> agrees that if the Secretary of the <Company>, or the Secretary's designee, resigns as escrow holder for any or no reason, the Board of Directors of the <Company> shall have the power to appoint a successor to serve as escrow holder pursuant to the terms of this <Agreement>.
 
         \ Investment and Taxation Representations \
         (( require ./shared/stock-purchase-representations ))
@@ -168,28 +168,28 @@
         \ Section 83(b) Election \
 
             \\
-            <Purchaser> understands that Section 83(a) of the Internal Revenue Code of 1986, as amended (the ""Code""), taxes as ordinary income the difference between the amount paid for the <Shares> and the <Fair Market Value> of the <Shares> as of the date any restrictions on the <Shares> lapse. 
+            <Recipient> understands that Section 83(a) of the Internal Revenue Code of 1986, as amended (the ""Code""), taxes as ordinary income the difference between the amount paid for the <Shares> and the <Fair Market Value> of the <Shares> as of the date any restrictions on the <Shares> lapse. 
 
             In this context, "restriction" means the right of the <Company> to buy back the <Shares> pursuant to the <Repurchase Option> set forth in {Repurchase Option; Vesting}. 
 
-            <Purchaser> understands that <Purchaser> may elect to be taxed at the time the <Shares> are purchased, rather than when and as the <Repurchase Option> expires, by filing an election under Section 83(b) (an ""83(b) Election"") of the <Code> with the Internal Revenue Service within 30 days from the date of purchase. 
+            <Recipient> understands that <Recipient> may elect to be taxed at the time the <Shares> are purchased, rather than when and as the <Repurchase Option> expires, by filing an election under Section 83(b) (an ""83(b) Election"") of the <Code> with the Internal Revenue Service within 30 days from the date of purchase. 
 
             Even if the <Fair Market Value> of the <Shares> at the time of the execution of this <Agreement> equals the amount paid for the <Shares>, the election must be made to avoid income under Section 83(a) in the future. 
 
-            <Purchaser> understands that failure to file such an election in a timely manner may result in adverse tax consequences for <Purchaser>. 
+            <Recipient> understands that failure to file such an election in a timely manner may result in adverse tax consequences for <Recipient>. 
 
-            <Purchaser> further understands that an additional copy of such election form should be filed with <Purchaser>'s federal income tax return for the calendar year in which the date of this <Agreement> falls. 
+            <Recipient> further understands that an additional copy of such election form should be filed with <Recipient>'s federal income tax return for the calendar year in which the date of this <Agreement> falls. 
 
-            <Purchaser> acknowledges that the foregoing is only a summary of the effect of United States federal income taxation with respect to purchase of the <Shares> hereunder, does not purport to be complete, and is not intended or written to be used, and cannot be used, for the purposes of avoiding taxpayer penalties. 
+            <Recipient> acknowledges that the foregoing is only a summary of the effect of United States federal income taxation with respect to purchase of the <Shares> hereunder, does not purport to be complete, and is not intended or written to be used, and cannot be used, for the purposes of avoiding taxpayer penalties. 
 
-            <Purchaser> further acknowledges that the <Company> has directed <Purchaser> to seek independent advice regarding the applicable provisions of the <Code>, the income tax laws of any municipality, state or foreign country in which <Purchaser> may reside, and the tax consequences of <Purchaser>'s death, and <Purchaser> has consulted, and has been fully advised by, <Purchaser>'s own tax advisor regarding such tax laws and tax consequences or has knowingly chosen not to consult such a tax advisor. 
+            <Recipient> further acknowledges that the <Company> has directed <Recipient> to seek independent advice regarding the applicable provisions of the <Code>, the income tax laws of any municipality, state or foreign country in which <Recipient> may reside, and the tax consequences of <Recipient>'s death, and <Recipient> has consulted, and has been fully advised by, <Recipient>'s own tax advisor regarding such tax laws and tax consequences or has knowingly chosen not to consult such a tax advisor. 
 
-            <Purchaser> further acknowledges that neither the <Company> nor any subsidiary or representative of the <Company> has made any warranty or representation to <Purchaser> with respect to the tax consequences of <Purchaser>'s purchase of the <Shares> or of the making or failure to make an <83(b) Election>.
+            <Recipient> further acknowledges that neither the <Company> nor any subsidiary or representative of the <Company> has made any warranty or representation to <Recipient> with respect to the tax consequences of <Recipient>'s purchase of the <Shares> or of the making or failure to make an <83(b) Election>.
 
-            \!! <Purchaser> (and not the <Company>, its agents or any other person) shall be solely responsible for appropriately filing such form with the IRS, even if <Purchaser> requests the <Company>, its agents or any other person make this filing on <Purchaser>'s behalf.
+            \!! <Recipient> (and not the <Company>, its agents or any other person) shall be solely responsible for appropriately filing such form with the IRS, even if <Recipient> requests the <Company>, its agents or any other person make this filing on <Recipient>'s behalf.
 
             \\
-            <Purchaser> agrees that <Purchaser> will execute and deliver to the <Company> with this executed <Agreement> a copy of the Acknowledgment and Statement of Decision Regarding Section 83(b) Election (the ""Acknowledgment""), attached hereto as {83(b) Acknowledgment and Statement of Decision} and, if <Purchaser> decides to make an 83(b) Election, a copy of the <83(b) Election>, attached hereto as {83(b) Election}.
+            <Recipient> agrees that <Recipient> will execute and deliver to the <Company> with this executed <Agreement> a copy of the Acknowledgment and Statement of Decision Regarding Section 83(b) Election (the ""Acknowledgment""), attached hereto as {83(b) Acknowledgment and Statement of Decision} and, if <Recipient> decides to make an 83(b) Election, a copy of the <83(b) Election>, attached hereto as {83(b) Election}.
 
         \ Waiver of Statutory Information Rights \
         (( require ./shared/waiver-of-information-rights ))

@@ -4,8 +4,8 @@
       { } ],
     "information": [ "address" ] },
   { "header": "The parties have executed this Exercise Agreement as of the date first set forth above.",
-    "term": "Purchaser",
+    "term": "Recipient",
     "entities": [
       { } ],
     "information": [ "address", "email" ] },
-  { "header": "I, the spouse of Purchaser, have read and hereby approve the foregoing Agreement.  In consideration of the Company's granting my spouse the right to purchase the Shares as set forth in the Agreement, I hereby agree to be bound irrevocably by the Agreement and further agree that any community property or other such interest that I may have in the Shares shall hereby be similarly bound by the Agreement.  I hereby appoint my spouse as my attorney-in-fact with respect to any amendment or exercise of any rights under the Agreement." } ]
+  { "header": "I, the spouse of Recipient, have read and hereby approve the foregoing Agreement.  In consideration of the Company's granting my spouse the right to purchase the Shares as set forth in the Agreement, I hereby agree to be bound irrevocably by the Agreement and further agree that any community property or other such interest that I may have in the Shares shall hereby be similarly bound by the Agreement.  I hereby appoint my spouse as my attorney-in-fact with respect to any amendment or exercise of any rights under the Agreement." } ]

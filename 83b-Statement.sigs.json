@@ -1,5 +1,5 @@
-[ { "header": "Purchaser is signing this Acknowledgment and Statement of Decision Regarding Section 83(b) Election on the date written below.",
-    "term": "Purchaser",
+[ { "header": "Recipient is signing this Acknowledgment and Statement of Decision Regarding Section 83(b) Election on the date written below.",
+    "term": "Recipient",
     "information": [ "date", "address" ] },
-  { "header": "I, the spouse of the Purchaser, cosign this Acknowledgment and Statement of Decision Regarding Section 83(b) Election as of the date of the date by my signature.",
+  { "header": "I, the spouse of the Recipient, cosign this Acknowledgment and Statement of Decision Regarding Section 83(b) Election as of the date of the date by my signature.",
     "information": [ "date" ] } ]

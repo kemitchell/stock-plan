@@ -1,5 +1,5 @@
 [ { "header": "The Holder is signing this Stock Power on the date by their signature.",
     "term": "Holder",
     "information": [ "date", "email", "address" ] },
-  { "header": "I, the spouse of the Purchaser, cosign this Stock Power on the date by my signature.",
+  { "header": "I, the spouse of the Recipient, cosign this Stock Power on the date by my signature.",
     "information": [ "date" ] } ]
