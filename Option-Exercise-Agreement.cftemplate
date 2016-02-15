@@ -226,7 +226,7 @@
             <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Orders} shall constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law and the <Purchaser> hereby expressly waives the requirement of Section 151(f) of the Delaware General Corporation Law that it receive the written notice provided for in Sections 151(f) and 202(a) of the Delaware General Corporation Law within a reasonable time after the issuance of the <Shares>.
 
         \ No Employment Rights \
-        Nothing in this <Agreement> shall affect in any manner whatsoever the right or power of the <Company>, or a parent, subsidiary or affiliate of the <Company>, to terminate <Purchaser>'s employment or consulting relationship, for any reason, with or without cause.
+        (( require ./shared/no-employment-rights ))
 
         \ Waiver of Statutory Information Rights \
         (( require ./shared/waiver-of-information-rights ))
