@@ -1,7 +1,8 @@
     \\
     This Restricted Stock Purchase Agreement (this ""Agreement"") is made as of [Date] by and between [Company Name], a Delaware corporation (the ""Company""), and [Recipient Name] (""Recipient"") pursuant to the <Company>'s [Stock Plan Name] (the ""Plan""). 
 
-    To the extent any capitalized terms used in this <Agreement> are not defined, they shall have the meaning ascribed to them in the <Plan>.
+        \ Definitions \
+        The following capitalized terms used in this <Agreement> have the meanings ascribed to them in the <Plan>: ""Affiliate"", ""Applicable Laws"", ""Award"", ""Awards"", ""Continuous Service Status"", ""Exchange Act"", ""Fair Market Value"", ""Option Agreement"", ""Securities Act"", ""Share"", ""Stock Power"" and ""Subsidiary"".
 
         \ Sale of Stock \
         Subject to the terms and conditions of this <Agreement>, simultaneously with the execution and delivery of this <Agreement> by the parties or on such other date as the <Company> and <Recipient> shall agree (the ""Purchase Date""), the <Company> will issue and sell to <Recipient>, and <Recipient> agrees to purchase from the <Company>, [Shares] shares of the <Company>'s Common Stock (the ""Shares"") at a purchase price of [Price Per Share] per share for a total purchase price of [Purchase Price] (the ""Aggregate Purchase Price""). 
@@ -189,7 +190,7 @@
             \!! <Recipient> (and not the <Company>, its agents or any other person) shall be solely responsible for appropriately filing such form with the IRS, even if <Recipient> requests the <Company>, its agents or any other person make this filing on <Recipient>'s behalf.
 
             \\
-            <Recipient> agrees that <Recipient> will execute and deliver to the <Company> with this executed <Agreement> a copy of the Acknowledgment and Statement of Decision Regarding Section 83(b) Election (the ""Acknowledgment""), attached hereto as {83(b) Acknowledgment and Statement of Decision} and, if <Recipient> decides to make an 83(b) Election, a copy of the <83(b) Election>, attached hereto as {83(b) Election}.
+            <Recipient> agrees that <Recipient> will execute and deliver to the <Company> with this executed <Agreement> a copy of the Acknowledgment and Statement of Decision Regarding Section 83(b) Election, attached hereto as {83(b) Acknowledgment and Statement of Decision} and, if <Recipient> decides to make an 83(b) Election, a copy of the <83(b) Election>, attached hereto as {83(b) Election}.
 
         \ Waiver of Statutory Information Rights \
         (( require ./shared/waiver-of-information-rights ))
