@@ -80,13 +80,6 @@
             \ Electronic Delivery \
             (( require ./shared/electronic-delivery ))
 
-            (( if S Corporation start ))
-
-            \ S Corp Agreement \
-            <Purchaser> hereby acknowledges, accepts and agrees to all of the rights, duties and obligations of a Delaware under the S Corp Agreement of the <Company> dated [Date].
-
-            (( end ))
-
             \ California Corporate Securities Law !! 
             (( require ./shared/california-securities ))
 
