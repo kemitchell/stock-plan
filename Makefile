@@ -3,7 +3,7 @@ CFT=node_modules/.bin/cftemplate
 JSON=node_modules/.bin/json
 SHARED=$(wildcard shared/*.cform)
 
-BASENAMES=Option-Exercise-Agreement Option-Agreement Option-Notice Stock-Plan Stockholder-Approval Board-Approval Restricted-Stock-Purchase-Agreement Stock-Power Receipt-from-Recipient 83b-Election Receipt-from-Company 83b-Statement
+BASENAMES=option-exercise-agreement option-agreement option-notice stock-plan stockholder-approval board-approval restricted-stock-purchase-agreement stock-power receipt-from-recipient 83b-election receipt-from-company 83b-statement
 TARGETS=$(addprefix output/,$(BASENAMES))
 
 all: output $(TARGETS:=.docx)
@@ -63,7 +63,7 @@ $(CF) $(CFT):
 
 LINT_TARGETS=$(BASENAMES:=.lint)
 
-TERMS_FROM_PLAN=Restricted-Stock-Purchase-Agreement Option-Exercise-Agreement
+TERMS_FROM_PLAN=restricted-stock-purchase-agreement option-exercise-agreement
 
 .PHONY: clean lint
 
