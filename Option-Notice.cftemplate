@@ -100,7 +100,7 @@ You have been granted an option to purchase Common Stock of [Company Name], a De
     (( end ))
 
     \ Termination Period \
-    You may exercise this <Option> for [Post-Termination Window Months] month(s) after the <Termination Date> except as set out in the <Stock Option Agreement> (but in no event later than the Expiration Date). 
+    You may exercise this <Option> for [Post-Termination Exercise Period] after the <Termination Date> except as set out in the <Stock Option Agreement> (but in no event later than the Expiration Date). 
 
     You are responsible for keeping track of these exercise periods following the <Termination Date>. 
 
