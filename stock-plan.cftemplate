@@ -508,7 +508,7 @@
 
             Except as expressly provided herein, no issuance by the <Company> of shares of stock of any class, or securities convertible into shares of stock of any class, shall affect, and no adjustment by reason thereof shall be made with respect to, the number or price of <Shares> subject to an <Award>. 
 
-            If, by reason of a transaction described in this {Changes in Capitalization} or an adjustment pursuant to {Changes in Capitalization}, a <Participant>'s <Award> agreement or agreement related to any <Optioned Stock> or <Restricted Stock> covers additional or different shares of stock or securities, then such additional or different shares, and the <Award> agreement or agreement related to the <Optioned Stock> or <Restricted Stock> in respect thereof, shall be subject to all of the terms, conditions and restrictions which were applicable to the <Award>, <Optioned Stock> and <Restricted Stock> prior to such adjustment.
+            If, by reason of a transaction described in this {Changes in Capitalization} or an adjustment pursuant to {Changes in Capitalization}, a <Participant>'s <Award Agreement> or agreement related to any <Optioned Stock> or <Restricted Stock> covers additional or different shares of stock or securities, then such additional or different shares, and the <Award Agreement> or agreement related to the <Optioned Stock> or <Restricted Stock> in respect thereof, shall be subject to all of the terms, conditions and restrictions which were applicable to the <Award>, <Optioned Stock> and <Restricted Stock> prior to such adjustment.
 
             \ Dissolution or Liquidation \
             In the event of the dissolution or liquidation of the <Company>, each <Award> will terminate immediately prior to the consummation of such action, unless otherwise determined by the <Administrator>.
@@ -580,7 +580,7 @@
 
             Notwithstanding the foregoing sentence, the <Board>, in its sole discretion, may permit transfers of <Nonstatutory Stock Options> to the <Company> or in connection with a <Change of Control> or other acquisition transactions involving the <Company> to the extent permitted by Rule 12h-1(f).
 
-        (( if Stock Transfer Restrictions start ))
+        (( if Stock Transfer Restrictions begin ))
 
         \ Non-Transferability of Stock Underlying Awards \
 
@@ -660,7 +660,7 @@
             Notwithstanding anything to the contrary in {Changes in Capitalization}, the <Administrator> shall in any event make such adjustments as may be required by Section 25102(o) of the California Corporations Code.
 
             \\
-            Notwithstanding anything stated to the contrary, no <Option> shall be exercisable on or after the tenth anniversary of the date of grant and any <Award> agreement shall terminate on or before the tenth anniversary of the date of grant.
+            Notwithstanding anything stated to the contrary, no <Option> shall be exercisable on or after the tenth anniversary of the date of grant and any <Award Agreement> shall terminate on or before the tenth anniversary of the date of grant.
 
             \\
             The <Company> shall furnish summary financial information (audited or unaudited) of the <Company>'s financial condition and results of operations, consistent with the requirements of <Applicable Laws>, at least annually to each <California Participant> during the period such <Participant> has one or more <Awards> outstanding, and in the case of an individual who acquired <Shares> pursuant to the <Plan>, during the period such <Participant> owns such <Shares>; provided, however, the <Company> shall not be required to provide such information if:

@@ -24,7 +24,7 @@ You have been granted an option to purchase Common Stock of [Company Name], a De
     \ Vesting/Exercise Schedule \
     So long as your <Continuous Service Status> does not terminate (and provided that no vesting shall occur following the <Termination Date> (as defined in the <Stock Option Agreement>), the <Shares> underlying this <Option> shall vest and become exercisable in accordance with the following schedule:  [Cliff Shares] of the <Total Number of Shares> shall vest and become exercisable on the [Cliff Months]-month anniversary of the <Vesting Commencement Date> and [Monthly Shares] of the <Total Number of Shares> shall vest and become exercisable on the [Vesting Day] day of each month thereafter (and if there is no corresponding day, the last day of the month).
 
-    (( if Acceleration on Change of Control start ))
+    (( if Acceleration on Change of Control begin ))
 
     \ Acceleration \
     Notwithstanding the above, if a <Change of Control> occurs pursuant to which this <Option> is to be terminated (in whole or in part), the vesting and exercisability of this <Option> shall accelerate such that this <Option> shall become vested and exercisable in full prior to the consummation of the <Change of Control> at such time and on such conditions as the <Company> shall determine. 
@@ -32,18 +32,18 @@ You have been granted an option to purchase Common Stock of [Company Name], a De
 
     (( end ))
 
-    (( if Single-Trigger start ))
+    (( if Single-Trigger begin ))
 
     \ Single Trigger Acceleration \
     Notwithstanding the above, if a <Change of Control> occurs and irrespective of whether this <Option> is being assumed, substituted, exchanged or terminated in connection with the <Change of Control>, the vesting and exercisability of this <Option> shall accelerate such that this <Option> shall become vested and exercisable to the extent of [Acceleration Percentage] of the <Shares> then unvested, effective as of immediately prior to consummation of the <Change of Control>.
 
     (( end ))
 
-    (( if Double-Trigger start ))
+    (( if Double-Trigger begin ))
 
     \ Double Trigger Acceleration \ Notwithstanding the above, if <Recipient> is terminated without <Cause> by the <Company> (or a successor, if appropriate) 
 
-    (( if Accelerate on Resignation start ))
+    (( if Accelerate on Resignation begin ))
 
     or resigns for <Good Reason> 
 
@@ -89,7 +89,7 @@ You have been granted an option to purchase Common Stock of [Company Name], a De
     \ Transferability \
     You may not transfer this <Option> except as set forth in the <Stock Option Agreement>. 
 
-    (( if Stock Transfer Restrictions start ))
+    (( if Stock Transfer Restrictions begin ))
 
     You must obtain <Company> approval prior to any transfer of the <Shares> received upon exercise of this <Option>.
 

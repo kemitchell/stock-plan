@@ -57,19 +57,19 @@
 
                 Fractional shares shall be rounded to the nearest whole share. 
 
-                (( if Single-Trigger start ))
+                (( if Single-Trigger begin ))
 
                 \\
                 Notwithstanding the foregoing, if a <Change of Control> occurs the vesting of the <Unvested Shares> shall accelerate such that this <Repurchase Option> shall lapse as to [Acceleration Percentage] of the <Unvested Shares>, effective as of immediately prior to consummation of the <Change of Control>.
 
                 (( end ))
 
-                (( if Double-Trigger start ))
+                (( if Double-Trigger begin ))
 
                 \\
                 Notwithstanding the foregoing, if <Recipient> is terminated without Cause by the <Company> (or a successor, if appropriate) 
 
-                (( if Accelerate on Resignation start ))
+                (( if Accelerate on Resignation begin ))
 
                 or resigns for <Good Reason> 
 
@@ -79,7 +79,7 @@
 
                 The lapse of repurchase rights provided for in the previous sentence shall occur immediately prior to the <Termination Date>.
 
-                (( if Acceleration on Change of Control start ))
+                (( if Acceleration on Change of Control begin ))
 
                 \\
                 In the case of a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Recipient> transfers his employment to such acquirer in connection with such asset sale transaction, then any acceleration of vesting that would otherwise occur upon <Recipient>'s termination shall occur immediately prior to, and contingent upon, the consummation of such asset sale transaction.
