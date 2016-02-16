@@ -19,67 +19,67 @@
         The <Company> will deliver to <Recipient> a stock certificate or, in the case of uncertificated securities upon request, a notice of issuance, for the <Shares> as soon as practicable following such date.
 
         \ Limitations on Transfer \
-        (( require ./shared/limitations-on-transfer ))
+        (( require shared/limitations-on-transfer ))
 
-        (( require ./shared/transfer-restrictions ))
+        (( require shared/transfer-restrictions ))
 
             \ Lock-Up Agreement \
-            (( require ./shared/lock-up ))
+            (( require shared/lock-up ))
 
         \ Investment and Taxation Representations \
-        (( require ./shared/stock-purchase-representations ))
+        (( require shared/stock-purchase-representations ))
 
         \ Voting Provisions \
-        (( require ./shared/voting-provisions ))
+        (( require shared/voting-provisions ))
 
         \ Restrictive Legends and Stop-Transfer Orders \
-        (( require ./shared/restrictive-legends ))
+        (( require shared/restrictive-legends ))
 
         \ No Employment Rights \
-        (( require ./shared/no-employment-rights ))
+        (( require shared/no-employment-rights ))
 
         \ Waiver of Statutory Information Rights \
-        (( require ./shared/waiver-of-information-rights ))
+        (( require shared/waiver-of-information-rights ))
 
         \ Data Privacy \
-        (( require ./shared/data-privacy ))
+        (( require shared/data-privacy ))
 
         \ Miscellaneous \
 
             \ Governing Law \
-            (( require ./shared/governing-law ))
+            (( require shared/governing-law ))
 
             \ English Language Documents Govern \
-            (( require ./shared/english-language ))
+            (( require shared/english-language ))
 
             \ Entire Agreement \
-            (( require ./shared/entire-agreement ))
+            (( require shared/entire-agreement ))
 
             \ Amendments and Waivers \
-            (( require ./shared/amendments-and-waivers ))
+            (( require shared/amendments-and-waivers ))
 
             \ Successors and Assigns \
-            (( require ./shared/successors-and-assigns ))
+            (( require shared/successors-and-assigns ))
 
             \ Notices \
-            (( require ./shared/notices ))
+            (( require shared/notices ))
 
             \ Severability \
-            (( require ./shared/severability ))
+            (( require shared/severability ))
 
             \ Construction \
-            (( require ./shared/construction ))
+            (( require shared/construction ))
 
             \ Counterparts \
-            (( require ./shared/counterparts ))
+            (( require shared/counterparts ))
 
             \ Electronic Delivery \
-            (( require ./shared/electronic-delivery ))
+            (( require shared/electronic-delivery ))
 
             \ California Corporate Securities Law !! 
-            (( require ./shared/california-securities ))
+            (( require shared/california-securities ))
 
     \\
 
         \ Rule 506(d)(1)(i) to (viii) under the Securities Act of 1933, as amended \
-        (( require ./shared/rule-506-bad-actor-excerpt ))
+        (( require shared/rule-506-bad-actor-excerpt ))

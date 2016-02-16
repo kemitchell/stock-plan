@@ -21,7 +21,7 @@
         In addition, <Recipient> shall satisfy any applicable tax, withholding obligations, required deductions or other payments, all in accordance with the <Plan>.
 
         \ Limitations on Transfer \
-        (( require ./shared/limitations-on-transfer ))
+        (( require shared/limitations-on-transfer ))
 
             \ Repurchase Option; Vesting \
 
@@ -109,10 +109,10 @@
 
                 (( end ))
 
-            (( require ./shared/transfer-restrictions ))
+            (( require shared/transfer-restrictions ))
 
             \ Lock-Up Agreement \
-            (( require ./shared/lock-up ))
+            (( require shared/lock-up ))
 
         \ Escrow of Unvested Shares \
         For purposes of facilitating the enforcement of the provisions of {Limitations on Transfer}, <Recipient> agrees to deliver a <Stock Power> in the form attached to this <Agreement> as {Stock Power} executed by <Recipient> and by <Recipient>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and <Stock Power> in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required in accordance with the terms of this <Agreement>. 
@@ -126,16 +126,16 @@
         <Recipient> agrees that if the Secretary of the <Company>, or the Secretary's designee, resigns as escrow holder for any or no reason, the Board of Directors of the <Company> shall have the power to appoint a successor to serve as escrow holder pursuant to the terms of this <Agreement>.
 
         \ Investment and Taxation Representations \
-        (( require ./shared/stock-purchase-representations ))
+        (( require shared/stock-purchase-representations ))
 
         \ Voting Provisions \
-        (( require ./shared/voting-provisions ))
+        (( require shared/voting-provisions ))
 
         \ Restrictive Legends and Stop-Transfer Orders \
-        (( require ./shared/restrictive-legends ))
+        (( require shared/restrictive-legends ))
 
         \ No Employment Rights \
-        (( require ./shared/no-employment-rights ))
+        (( require shared/no-employment-rights ))
 
         \ Section 83(b) Election \
 
@@ -164,53 +164,53 @@
             <Recipient> agrees that <Recipient> will execute and deliver to the <Company> with this executed <Agreement> a copy of the Acknowledgment and Statement of Decision Regarding Section 83(b) Election, attached hereto as {83(b) Acknowledgment and Statement of Decision} and, if <Recipient> decides to make an 83(b) Election, a copy of the <83(b) Election>, attached hereto as {83(b) Election}.
 
         \ Waiver of Statutory Information Rights \
-        (( require ./shared/waiver-of-information-rights ))
+        (( require shared/waiver-of-information-rights ))
 
         \ Data Privacy \
-        (( require ./shared/data-privacy ))
+        (( require shared/data-privacy ))
 
         \ Miscellaneous \
 
             \ Governing Law \
-            (( require ./shared/governing-law ))
+            (( require shared/governing-law ))
 
             \ English Language Documents Govern \
-            (( require ./shared/english-language ))
+            (( require shared/english-language ))
 
             \ Entire Agreement \
-            (( require ./shared/entire-agreement ))
+            (( require shared/entire-agreement ))
 
             \ Amendments and Waivers \
-            (( require ./shared/amendments-and-waivers ))
+            (( require shared/amendments-and-waivers ))
 
             \ Successors and Assigns \
-            (( require ./shared/successors-and-assigns ))
+            (( require shared/successors-and-assigns ))
 
             \ Notices \
-            (( require ./shared/notices ))
+            (( require shared/notices ))
 
             \ Severability \
-            (( require ./shared/severability ))
+            (( require shared/severability ))
 
             \ Construction \
-            (( require ./shared/construction ))
+            (( require shared/construction ))
 
             \ Counterparts \
-            (( require ./shared/counterparts ))
+            (( require shared/counterparts ))
 
             \ Electronic Delivery \
-            (( require ./shared/electronic-delivery ))
+            (( require shared/electronic-delivery ))
 
             \ Imposition of Other Requirements \
-            (( require ./shared/other-requirements ))
+            (( require shared/other-requirements ))
 
             \ California Corporate Securities Law !!
-            (( require ./shared/california-securities ))
+            (( require shared/california-securities ))
 
     \\
 
         \ Rule 506(d)(1)(i) to (viii) under the Securities Act of 1933, as amended \
-        (( require ./shared/rule-506-bad-actor-excerpt ))
+        (( require shared/rule-506-bad-actor-excerpt ))
 
     \ Stock Power \
     (Attached)

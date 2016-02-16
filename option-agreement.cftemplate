@@ -96,7 +96,7 @@
         The terms of this <Option> shall be binding upon the executors, administrators, heirs, successors and assigns of <Recipient>.
 
         \ Lock-Up Agreement \
-        (( require ./shared/lock-up ))
+        (( require shared/lock-up ))
 
         \ Effect of Agreement \
         <Recipient> acknowledges receipt of a copy of the <Plan> and represents that he or she is familiar with the terms and provisions thereof (and has had an opportunity to consult counsel regarding the <Option> terms), and hereby accepts this <Option> and agrees to be bound by its contractual terms as set forth herein and in the <Plan>. 
@@ -106,10 +106,10 @@
         In the event of a conflict between the terms and provisions of the <Plan> and the terms and provisions of the <Notice> and this <Agreement>, the <Plan> terms and provisions shall prevail.
 
         \ Imposition of Other Requirements \
-        (( require ./shared/other-requirements ))
+        (( require shared/other-requirements ))
 
         \ Electronic Delivery \
-        (( require ./shared/electronic-delivery ))
+        (( require shared/electronic-delivery ))
 
         \ No Acquired Rights \
         In accepting the <Option>, <Recipient> acknowledges that the <Plan> is established voluntarily by the <Company>, is discretionary in nature, and may be modified, amended, suspended or terminated by the <Company> at any time. 
@@ -121,36 +121,36 @@
         The <Option> and the <Shares> subject to the <Option> are not intended to replace any pension rights or compensation and are not part of normal or expected salary or compensation for any purpose, including but not limited to calculating severance payments, if any, upon termination.
 
         \ Data Privacy \
-        (( require ./shared/data-privacy ))
+        (( require shared/data-privacy ))
 
         \ Miscellaneous \
 
             \ Governing Law \
-            (( require ./shared/governing-law ))
+            (( require shared/governing-law ))
 
             \ English Language Documents Govern \
-            (( require ./shared/english-language ))
+            (( require shared/english-language ))
 
             \ Entire Agreement \
-            (( require ./shared/entire-agreement ))
+            (( require shared/entire-agreement ))
 
             \ Amendments and Waivers \
-            (( require ./shared/amendments-and-waivers ))
+            (( require shared/amendments-and-waivers ))
 
             \ Successors and Assigns \
-            (( require ./shared/successors-and-assigns ))
+            (( require shared/successors-and-assigns ))
 
             \ Notices \
-            (( require ./shared/notices ))
+            (( require shared/notices ))
 
             \ Severability \
-            (( require ./shared/severability ))
+            (( require shared/severability ))
 
             \ Construction \
-            (( require ./shared/construction ))
+            (( require shared/construction ))
 
             \ Counterparts \
-            (( require ./shared/counterparts ))
+            (( require shared/counterparts ))
 
     \\
     No schedules.
