@@ -21,17 +21,17 @@ docker:
 
 # DocX Rules
 
-output/%.docx: %.cform %.sigs.json %.options %.blanks $(SHARED) $(CF)
-	$(CF) render -s $*.sigs.json --format docx -b $*.blanks $(shell cat $*.options) $< > $@
+output/%.docx: %.cform %.sigs.json %.options %.blanks $(SHARED) $(CF) output
+	cat $< | sed 's/$$/ /' | $(CF) render -s $*.sigs.json --format docx -b $*.blanks $(shell cat $*.options) > $@
 
-output/%.docx: %.cform %.options %.blanks $(SHARED) $(CF)
-	$(CF) render --format docx -b $*.blanks $(shell cat $*.options) $< > $@
+output/%.docx: %.cform %.options %.blanks $(SHARED) $(CF) output
+	cat $< | sed 's/$$/ /' | $(CF) render --format docx -b $*.blanks $(shell cat $*.options) > $@
 
-output/%.docx: %.cform %.sigs.json %.options $(SHARED) $(CF)
-	$(CF) render -s $*.sigs.json --format docx $(shell cat $*.options) $< > $@
+output/%.docx: %.cform %.sigs.json %.options $(SHARED) $(CF) output
+	cat $< | sed 's/$$/ /' | $(CF) render -s $*.sigs.json --format docx $(shell cat $*.options) > $@
 
-output/%.docx: %.cform %.options $(SHARED) $(CF)
-	$(CF) render --format docx $(shell cat $*.options) $< > $@
+output/%.docx: %.cform %.options $(SHARED) $(CF) output
+	cat $< | sed 's/$$/ /' | $(CF) render --format docx $(shell cat $*.options) > $@
 
 # Templating
 
